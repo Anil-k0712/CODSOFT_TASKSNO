@@ -1,0 +1,1221 @@
+Order_ID,Order_Date,Customer_Name,Outlet,Product,Category,Quantity,Unit_Price,Payment_Method,Order_Type,Total_Sales
+FF10001,2025-01-26,Isha,Tripuri,Classic Burger,Burgers,3.0,-99.0,UPI,Delivery,-297.0
+FF10002,2025-04-19,Kavya,Model Town,Classic Burger,Burgers,3.0,149.0,UPI,Delivery,447.0
+FF10003,2025-03-13,Neha,Tripuri,Veg Burger,Burgers,2.0,129.0,Card,Takeaway,258.0
+FF10004,2025-02-28,Rohan,Leela Bhawan,Veg Burger,Burgers,4.0,129.0,Cash,Delivery,516.0
+FF10005,2025-02-24,Rohan,Urban Estate,Margherita Pizza,Pizza,3.0,299.0,UPI,Dine-in,897.0
+FF10006,2025-05-05,Arjun,Tripuri,Chicken Wings,Sides,2.0,179.0,Card,Delivery,358.0
+FF10007,2025-05-17,Simran,Tripuri,Lemonade,Beverages,1.0,89.0,Card,Delivery,89.0
+FF10008,2025-01-01,Sneha,Leela Bhawan,Chicken Wings,Sides,1.0,179.0,UPI,Takeaway,179.0
+FF10009,2025-03-08,Harsh,Leela Bhawan,Classic Burger,Burgers,3.0,149.0,Card,Delivery,447.0
+FF10010,2025-05-14,Yash,Leela Bhawan,Lemonade,Beverages,3.0,89.0,UPI,Dine-in,267.0
+FF10011,2025-04-16,Manish,Leela Bhawan,Chicken Wings,Sides,1.0,179.0,Cash,Delivery,179.0
+FF10012,2025-05-26,Vikas,Tripuri ,Margherita Pizza,Pizza,4.0,299.0,UPI,DELIVERY,1196.0
+FF10013,2025-01-08,Isha,Model Town,Lemonade,Beverages,3.0,89.0,Cash,Dine-in,267.0
+FF10014,2025-04-23,Tanvi,Urban Estate,Margherita Pizza,Pizza,1.0,299.0,UPI,Takeaway,299.0
+FF10015,2025-02-11,Rohan,Urban Estate,French Fries,Sides,2.0,99.0,UPI,Delivery,198.0
+FF10016,2025-05-17,Manish,Model Town,Veg Burger,Burgers,3.0,129.0,Card,Takeaway,387.0
+FF10017,2025-01-29,Neha,Leela Bhawan,Garlic Bread,Sides,2.0,129.0,UPI,TAKEAWAY,258.0
+FF10018,2025-05-31,Pooja,Tripuri,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Delivery,349.0
+FF10019,2025-02-26,Gurpreet,Urban Estate,Lemonade,Beverages,4.0,89.0,Cash,Dine-in,356.0
+FF10020,2025-06-11,Gurpreet,Tripuri,French Fries,Sides,1.0,99.0,UPI,Delivery,99.0
+FF10021,2025-04-13,Sahil,Model Town,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Dine-in,349.0
+FF10022,2025-03-29,Vikas,Urban Estate,Lemonade,Beverages,1.0,89.0,UPI,Dine-in,89.0
+FF10023,2025-04-02,Isha,Urban Estate,Garlic Bread,Sides,4.0,129.0,Cash,Dine-in,516.0
+FF10024,2025-06-05,Karan,Model Town,Cold Coffee,Beverages,3.0,119.0,UPI,Dine-in,357.0
+FF10025,2025-05-15,Pooja,Model Town,Cold Coffee,Beverages,3.0,119.0,Card,Takeaway,357.0
+FF10026,2025-03-06,Karan,Leela Bhawan,Garlic Bread,Sides,2.0,129.0,UPI,Delivery,258.0
+FF10027,2025-01-08,Aditya,Tripuri,Cheese Burger,Burgers,1.0,199.0,UPI,Dine-in,199.0
+FF10028,2025-04-15,Pooja,Model Town,Chicken Wings,Sides,1.0,179.0,UPI,Delivery,179.0
+FF10029,2025-04-16,Aditya,Urban Estate,French Fries,Sides,2.0,99.0,UPI,Takeaway,198.0
+FF10030,2025-04-27,Vikas,Leela Bhawan,Veg Burger,Burgers,4.0,129.0,Card,Dine-in,516.0
+FF10031,2025-03-22,Simran,Leela Bhawan,Lemonade,Beverages,4.0,89.0,UPI,Delivery,356.0
+FF10032,2025-04-04,Rohan,Urban Estate,Cheese Burger,Burgers,3.0,199.0,UPI,Takeaway,597.0
+FF10033,2025-03-26,Jaspreet,Urban Estate,Cold Coffee,Beverages,3.0,119.0,Card,Dine-in,357.0
+FF10034,2025-03-19,Karan,TRIPURI,Cheese Burger,Burgers,4.0,199.0,Cash,Delivery,796.0
+FF10035,2025-06-14,Rohan,Leela Bhawan,Coke,Beverages,1.0,59.0,Card,Delivery,59.0
+FF10036,01/03/2025,Arjun,Urban Estate,Veg Burger,Burgers,2.0,129.0,Card,delivery ,258.0
+FF10037,2025-03-25,Rohan,Model town,Classic Burger,Burgers,1.0,149.0,UPI,Takeaway,149.0
+FF10038,2025-01-14,Rahul,Leela Bhawan,Veg Burger,Burgers,3.0,129.0,Cash,Dine-in,387.0
+FF10039,2025-06-15,Vikas,Urban Estate,Farmhouse Pizza,Pizza,4.0,349.0,Card,Delivery,1396.0
+FF10040,2025-04-03,Rohan,Leela Bhawan,Veg Burger,Burgers,4.0,129.0,UPI,Dine-in,516.0
+FF10041,2025-03-01,Aditya,Urban Estate,Coke,Beverages,3.0,59.0,UPI,Dine-in,177.0
+FF10042,2025-04-21,Kavya,Model Town,Classic Burger,Burgers,3.0,149.0,Card,Takeaway,447.0
+FF10043,2025-01-02,Pooja,Tripuri,Lemonade,Beverages,2.0,89.0,Cash,Delivery,178.0
+FF10044,2025-03-31,Gurpreet,Model Town,Chicken Wings,Sides,3.0,179.0,UPI,Delivery,537.0
+FF10045,2025-06-14,Isha,Leela Bhawan,Veg Burger,Burgers,4.0,,UPI,Dine-in,
+FF10046,2025-02-16,Rohan,Leela Bhawan,French Fries,Sides,1.0,99.0,Cash,Takeaway,99.0
+FF10047,2025-06-22,Ananya,Tripuri,Coke,Beverages,1.0,59.0,Cash,Dine-in,59.0
+FF10048,2025-05-04,Aman,Leela Bhawan,Lemonade,Beverages,1.0,89.0,UPI,Delivery,89.0
+FF10049,2025-05-29,Karan,Tripuri,Coke,Beverages,4.0,59.0,UPI,Dine-in,236.0
+FF10050,2025-06-03,Karan,Model Town,Classic Burger,Burgers,4.0,149.0,UPI,Delivery,596.0
+FF10051,2025-05-21,Nisha,Model Town,Cold Coffee,Beverages,3.0,119.0,Cash,Delivery,357.0
+FF10052,2025-06-29,Tanvi,Tripuri,Chicken Wings,Sides,4.0,179.0,UPI,Delivery,716.0
+FF10053,2025-05-30,Arjun,Tripuri,Coke,Beverages,3.0,59.0,Card,Dine-in,177.0
+FF10054,2025-01-04,Neha,Urban Estate,Farmhouse Pizza,Pizza,2.0,349.0,UPI,Delivery,698.0
+FF10055,2025-03-08,Vikas,Tripuri,Farmhouse Pizza,Pizza,4.0,349.0,Cash,Takeaway,1396.0
+FF10056,2025-05-05,Vikas,Tripuri,Farmhouse Pizza,Pizza,2.0,349.0,UPI,Delivery,698.0
+FF10057,2025-03-30,Pooja,Leela Bhawan,Farmhouse Pizza,Pizza,4.0,349.0,Card,Dine-in,1396.0
+FF10058,2025-04-21,Aman,Urban Estate,Lemonade,Beverages,2.0,89.0,UPI,Delivery,178.0
+FF10059,2025-06-13,Aman,Urban Estate,Garlic Bread,Sides,2.0,129.0,Card,Delivery,258.0
+FF10060,2025-06-17,Rohan,Model Town,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Delivery,1396.0
+FF10061,2025-01-09,Kavya,Model Town,Coke,Beverages,2.0,59.0,UPI,Dine-in,118.0
+FF10062,2025-03-31,Jaspreet,Urban Estate,Coke,Beverages,4.0,59.0,UPI,Delivery,236.0
+FF10063,2025-04-12,Simran,Model Town,Garlic Bread,Sides,4.0,129.0,UPI,Delivery,516.0
+FF10064,2025-04-28,Riya,Urban Estate,Cold Coffee,Beverages,4.0,119.0,UPI,Dine-in,476.0
+FF10065,2025-01-09,Rahul,Urban Estate,Coke,Beverages,3.0,59.0,Cash,Delivery,177.0
+FF10066,2025-04-08,Yash,Urban Estate,Veg Burger,Burgers,1.0,129.0,UPI,Dine-in,129.0
+FF10067,2025-01-25,Aditya,Urban Estate,Farmhouse Pizza,Pizza,2.0,349.0,Cash,Delivery,698.0
+FF10068,2025-01-24,Riya,Urban Estate,Veg Burger,Burgers,,129.0,Card,Takeaway,
+FF10069,2025-02-08,Nisha,Leela Bhawan,Garlic Bread,Sides,4.0,129.0,Cash,Delivery,516.0
+FF10070,2025-04-11,Aman,Leela Bhawan,Cold Coffee,Beverages,2.0,119.0,UPI,Dine-in,238.0
+FF10071,2025-03-19,Manish,Urban Estate,French Fries,Sides,4.0,99.0,UPI,Delivery,396.0
+FF10072,2025-02-24,Kavya,Urban Estate,French Fries,Sides,1.0,99.0,Card,Takeaway,99.0
+FF10073,2025-03-30,Riya,Urban Estate,Cold Coffee,Beverages,2.0,119.0,Card,Delivery,238.0
+FF10074,2025-06-07,Karan,Tripuri,Cold Coffee,Beverages,2.0,119.0,UPI,Dine-in,238.0
+FF10075,2025-03-31,Nisha,Urban Estate,Cheese Burger,Burgers,4.0,199.0,UPI,Delivery,796.0
+FF10076,2025-01-23,Aditya,Model Town,Classic Burger,Burgers,4.0,149.0,Cash,Delivery,596.0
+FF10077,2025-03-11,Riya,Urban Estate,French Fries,Sides,3.0,99.0,Card,Takeaway,297.0
+FF10078,2025-01-23,Jaspreet,Model Town,Garlic Bread,Sides,3.0,129.0,Cash,Delivery,387.0
+FF10079,2025-06-10,Aman,Model Town,Chicken Wings,Sides,4.0,179.0,UPI,Delivery,716.0
+FF10080,2025-02-03,Neha,Urban Estate,Classic Burger,Burgers,2.0,149.0,UPI,Dine-in,298.0
+FF10081,2025-06-20,Simran,Leela Bhawan,Coke,Beverages,1.0,59.0,Card,Takeaway,59.0
+FF10082,2025-03-05,Aditya,Urban Estate,French Fries,Sides,1.0,99.0,UPI,DELIVERY,99.0
+FF10083,2025-04-25,Aman,Tripuri,Cheese Burger,Burgers,4.0,199.0,UPI,Dine-in,796.0
+FF10084,2025-02-17,Sneha,Model Town,Chicken Wings,Sides,4.0,179.0,UPI,Delivery,716.0
+FF10085,2025-02-18,Rohan,Leela Bhawan,Cheese Burger,Burgers,1.0,199.0,UPI,Takeaway,199.0
+FF10086,2025-03-11,Arjun,Tripuri,Chicken Wings,Sides,4.0,179.0,UPI,Dine-in,716.0
+FF10087,2025-03-26,Rahul,Urban Estate,Veg Burger,Burgers,2.0,129.0,Card,Dine-in,258.0
+FF10088,2025-01-30,Mehak,Tripuri,Farmhouse Pizza,Pizza,1.0,349.0,Cash,Dine-in,349.0
+FF10089,2025-02-03,Rahul,Tripuri,Garlic Bread,Sides,4.0,129.0,UPI,Takeaway,516.0
+FF10090,2025-02-23,Rahul,Tripuri,Chicken Wings,Sides,1.0,179.0,UPI,Dine-in,179.0
+FF10091,2025-05-10,Tanvi,Tripuri,Margherita Pizza,Pizza,2.0,299.0,Cash,Delivery,598.0
+FF10092,2025-06-23,Aman,,French Fries,Sides,2.0,99.0,UPI,Dine-in,198.0
+FF10093,2025-03-29,Simran,Tripuri,Margherita Pizza,Pizza,1.0,299.0,UPI,Takeaway,299.0
+FF10094,2025-01-18,Tanvi,Model Town,Cold Coffee,Beverages,3.0,119.0,Cash,Delivery,357.0
+FF10095,2025-01-26,Harsh,Leela Bhawan,Lemonade,Beverages,2.0,89.0,UPI,Takeaway,178.0
+FF10096,2025-03-30,Sneha,Tripuri,French Fries,Sides,3.0,99.0,CARD,Dine-in,297.0
+FF10097,2025-06-19,Arjun,Leela Bhawan,Veg Burger,Burgers,3.0,129.0,UPI,Takeaway,387.0
+FF10098,2025-02-23,Rahul,Leela Bhawan,Farmhouse Pizza,Pizza,2.0,349.0,Cash,Delivery,698.0
+FF10099,2025-04-09,Rahul,Leela Bhawan,Cold Coffee,Beverages,4.0,119.0,UPI,Dine-in,476.0
+FF10100,2025-06-04,Kavya,Model Town,Margherita Pizza,Pizza,1.0,299.0,Card,Delivery,299.0
+FF10101,2025-06-12,Rahul,Model Town,Chicken Wings,Sides,2.0,179.0,Card,Takeaway,358.0
+FF10102,2025-03-25,Sneha,Model Town,Coke,Beverages,2.0,59.0,Cash,Dine-in,118.0
+FF10103,2025-05-07,Rahul,Leela Bhawan,Cold Coffee,Beverages,3.0,119.0,UPI,Delivery,357.0
+FF10104,2025-01-29,Nisha,Tripuri,Lemonade,Beverages,2.0,,Cash,Takeaway,
+FF10105,2025-03-29,Nisha,Leela Bhawan,French Fries,Sides,3.0,99.0,UPI,Delivery,297.0
+FF10106,2025-05-17,Ananya,Tripuri,Veg Burger,Burgers,1.0,129.0,UPI,Dine-in,129.0
+FF10107,2025-03-27,Tanvi,Urban Estate,Classic Burger,Burgers,3.0,149.0,Cash,Delivery,447.0
+FF10108,2025-06-15,Jaspreet,Model Town,French Fries,Sides,1.0,99.0,Cash,Dine-in,99.0
+FF10109,2025-03-11,Sahil,Model Town,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Dine-in,1396.0
+FF10110,2025-04-04,Karan,Leela Bhawan,Classic Burger,Burgers,1.0,149.0,UPI,Delivery,149.0
+FF10111,2025-06-01,Neha,Urban Estate,French Fries,Sides,2.0,99.0,Card,Takeaway,198.0
+FF10112,2025-01-12,Tanvi,Model Town,French Fries,Sides,4.0,99.0,Card,Dine-in,396.0
+FF10113,2025-05-14,Sneha,Model Town,French Fries,Sides,2.0,99.0,UPI,Takeaway,198.0
+FF10114,2025-06-12,Isha,Model Town,Farmhouse Pizza,Pizza,3.0,349.0,UPI,Takeaway,1047.0
+FF10115,2025-04-28,Nisha,Model Town,Margherita Pizza,Pizza,1.0,299.0,Cash,Dine-in,299.0
+FF10116,2025-06-28,Sneha,Tripuri,Garlic Bread,Sides,2.0,129.0,Cash,Dine-in,258.0
+FF10117,2025-03-30,Arjun,Urban Estate,Classic Burger,Burgers,1.0,149.0,Card,Delivery,149.0
+FF10118,2025-06-16,Pooja,Leela Bhawan,Coke,Beverages,4.0,59.0,Card,Delivery,236.0
+FF10119,2025-06-23,Manish,Tripuri,Lemonade,Beverages,3.0,89.0,UPI,Takeaway,267.0
+FF10120,2025-01-15,Rahul,Tripuri,Cheese Burger,Burgers,3.0,199.0,Card,Delivery,597.0
+FF10121,2025-06-06,Isha,Leela Bhawan,Chicken Wings,Sides,1.0,179.0,Cash,Dine-in,179.0
+FF10122,2025-02-19,Rahul,Urban Estate,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Delivery,1396.0
+FF10123,2025-01-15,Rohan,Tripuri,Cheese Burger,Burgers,2.0,199.0,UPI,Delivery,398.0
+FF10124,2025-05-08,Nisha,Urban Estate,Lemonade,Beverages,2.0,89.0,UPI,Takeaway,178.0
+FF10125,2025-01-26,Ananya,Leela Bhawan,Chicken Wings,Sides,3.0,179.0,UPI,Dine-in,537.0
+FF10126,2025-01-14,Arjun,Tripuri,French Fries,Sides,1.0,99.0,Cash,Takeaway,99.0
+FF10127,2025-04-21,Harsh,Leela Bhawan,Coke,Beverages,1.0,59.0,UPI,Delivery,59.0
+FF10128,2025-01-11,Isha,Model Town,Lemonade,Beverages,1.0,89.0,UPI,takeaway ,89.0
+FF10129,2025-06-04,Neha,Model Town,Cheese Burger,Burgers,1.0,199.0,Card,Takeaway,199.0
+FF10130,2025-03-04,Rohan,Urban Estate,Coke,Beverages,4.0,59.0,UPI,Dine-in,236.0
+FF10131,2025-01-11,Simran,Model Town,French Fries,Sides,2.0,99.0,Cash,Delivery,198.0
+FF10132,2025-05-18,Isha,Model Town,Veg Burger,Burgers,2.0,129.0,Cash,Takeaway,258.0
+FF10133,2025-04-23,Aman,Leela Bhawan,Veg Burger,Burgers,1.0,129.0,Card,Delivery,129.0
+FF10134,2025-04-15,Manish,Urban Estate,Cold Coffee,Beverages,1.0,119.0,Cash,Dine-in,119.0
+FF10135,2025-04-25,Rahul,Leela Bhawan,French Fries,Sides,3.0,99.0,UPI,Dine-in,297.0
+FF10136,2025-02-24,Manish,Leela Bhawan,Garlic Bread,Sides,4.0,129.0,UPI,Takeaway,516.0
+FF10137,2025-05-08,,Urban Estate,Garlic Bread,Sides,1.0,129.0,UPI,Delivery,129.0
+FF10138,2025-06-07,Neha,Model Town,Chicken Wings,Sides,2.0,179.0,UPI,Delivery,358.0
+FF10139,2025-04-15,Tanvi,Urban Estate,Coke,Beverages,4.0,,UPI,Dine-in,
+FF10140,2025-03-20,Jaspreet,Leela Bhawan,Cheese Burger,Burgers,1.0,199.0,Card,Delivery,199.0
+FF10141,2025-02-03,Aman,Leela Bhawan,Cold Coffee,Beverages,3.0,119.0,UPI,Takeaway,357.0
+FF10142,2025-01-10,Arjun,Urban Estate,Farmhouse Pizza,Pizza,1.0,349.0,Cash,Delivery,349.0
+FF10143,2025-03-15,Jaspreet,Tripuri,Margherita Pizza,Pizza,3.0,299.0,UPI,Delivery,897.0
+FF10144,2025-02-26,Riya,Leela Bhawan,Veg Burger,Burgers,2.0,129.0,Cash,Dine-in,258.0
+FF10145,2025-01-06,Aman,Tripuri,Classic Burger,Burgers,1.0,149.0,UPI,Delivery,149.0
+FF10146,2025-02-10,Jaspreet,Tripuri,Classic Burger,Burgers,1.0,149.0,UPI,Takeaway,149.0
+FF10147,2025-06-23,Arjun,Leela Bhawan,Veg Burger,Burgers,3.0,129.0,Card,Delivery,387.0
+FF10148,2025-01-28,Vikas,Tripuri,Margherita Pizza,Pizza,2.0,299.0,UPI,Delivery,598.0
+FF10149,2025-06-18,Harsh,Leela Bhawan,Veg Burger,Burgers,2.0,129.0,Card,Dine-in,258.0
+FF10150,2025-05-26,Sahil,Tripuri,Coke,Beverages,3.0,59.0,Card,Delivery,177.0
+FF10151,2025-06-14,Nisha,Tripuri,Cheese Burger,Burgers,1.0,199.0,Card,Dine-in,199.0
+FF10152,2025-04-04,Riya,Leela Bhawan,Chicken Wings,Sides,4.0,179.0,UPI,Takeaway,716.0
+FF10153,2025-05-17,Karan,Tripuri,Chicken Wings,Sides,2.0,179.0,UPI,Dine-in,358.0
+FF10154,2025-03-25,Vikas,Model Town,Lemonade,Beverages,4.0,89.0,Card,Dine-in,356.0
+FF10155,2025-04-29,Vikas,Tripuri,Chicken Wings,Sides,3.0,179.0,UPI,Delivery,537.0
+FF10156,2025-03-21,Arjun,Model Town,Farmhouse Pizza,Pizza,2.0,349.0,UPI,Dine-in,698.0
+FF10157,2025-06-12,Simran,Leela Bhawan,Chicken Wings,Sides,4.0,179.0,UPI,Dine-in,716.0
+FF10158,2025-03-27,Aditya,Urban Estate,Garlic Bread,Sides,4.0,129.0,Card,Delivery,516.0
+FF10159,2025-04-24,Rohan,Tripuri,Margherita Pizza,Pizza,3.0,299.0,Card,Dine-in,897.0
+FF10160,2025-05-25,Kavya,Leela Bhawan,Lemonade,Beverages,1.0,89.0,Card,Dine-in,89.0
+FF10161,2025-04-15,Aditya,Urban Estate,Garlic Bread,Sides,1.0,129.0,UPI,Dine-in,129.0
+FF10162,2025-03-06,Aditya,Model Town,Chicken Wings,Sides,2.0,179.0,Card,Delivery,358.0
+FF10163,2025-01-21,Manish,Urban Estate,Margherita Pizza,Pizza,2.0,299.0,UPI,Dine-in,598.0
+FF10164,2025-04-24,Tanvi,Tripuri,French Fries,Sides,1.0,99.0,UPI,Takeaway,99.0
+FF10165,2025-01-02,Pooja,Model Town,French Fries,Sides,2.0,99.0,UPI,Delivery,198.0
+FF10166,2025-03-15,Arjun,Leela Bhawan,French Fries,Sides,2.0,99.0,Cash,Dine-in,198.0
+FF10167,2025-02-04,Vikas,Tripuri,Coke,Beverages,4.0,59.0,Card,Delivery,236.0
+FF10168,04-02-2025,Karan,Model Town,French Fries,Sides,4.0,99.0,UPI,Dine-in,396.0
+FF10169,2025-06-01,Vikas,Urban Estate,Garlic Bread,Sides,4.0,129.0,Card,Takeaway,516.0
+FF10170,2025-02-03,Rahul, MODEL TOWN,Chicken Wings,Sides,1.0,179.0,Cash,Delivery,179.0
+FF10171,2025-01-20,Karan,Urban Estate,Garlic Bread,Sides,2.0,129.0,UPI,Dine-in,258.0
+FF10172,2025-05-04,Tanvi,Model Town,Chicken Wings,Sides,3.0,179.0,UPI,Takeaway,537.0
+FF10173,2025-03-17,Harsh,Tripuri,Veg Burger,Burgers,2.0,129.0,UPI,Dine-in,258.0
+FF10174,2025-05-26,Manish,Leela Bhawan ,Margherita Pizza,Pizza,2.0,299.0,UPI,Takeaway,598.0
+FF10175,2025-05-19,Harsh,Model Town,Classic Burger,Burgers,4.0,149.0,UPI,Dine-in,596.0
+FF10176,2025-05-27,Sneha,Model Town,Cheese Burger,Burgers,4.0,199.0,Card,Dine-in,796.0
+FF10177,2025-05-05,Neha,Leela Bhawan,French Fries,Sides,4.0,99.0,UPI,Dine-in,396.0
+FF10178,2025-05-27,Arjun,Tripuri,Margherita Pizza,Pizza,2.0,299.0,UPI,Dine-in,598.0
+FF10179,2025-01-04,Tanvi,Urban Estate,Veg Burger,Burgers,4.0,129.0,UPI,Dine-in,516.0
+FF10180,2025-06-11,Karan,Tripuri,Chicken Wings,Sides,1.0,179.0,Card,takeaway ,179.0
+FF10181,2025-01-23,Nisha,Leela Bhawan,French Fries,Sides,1.0,99.0,UPI,Dine-in,99.0
+FF10182,2025-03-27,Mehak,Urban Estate,Cold Coffee,Beverages,4.0,119.0,UPI,Delivery,476.0
+FF10183,2025-04-25,Arjun,Tripuri,Cold Coffee,Beverages,1.0,119.0,Cash,Delivery,119.0
+FF10184,2025-06-22,Simran,Tripuri,French Fries,Sides,2.0,99.0,UPI,Dine-in,198.0
+FF10185,2025-01-17,Riya,Leela Bhawan,French Fries,Sides,1.0,99.0,UPI,Delivery,99.0
+FF10186,2025-01-27,Nisha,Model Town,Veg Burger,Burgers,2.0,129.0,Cash,Delivery,258.0
+FF10187,2025-02-21,Aman,Model Town,Classic Burger,Burgers,1.0,149.0,Card,Dine-in,149.0
+FF10188,2025-04-25,Karan,Urban Estate,Garlic Bread,Sides,3.0,129.0,UPI,Takeaway,387.0
+FF10189,2025-05-07,Neha,Leela Bhawan,Farmhouse Pizza,Pizza,3.0,349.0,Cash,Dine-in,1047.0
+FF10190,2025-02-12,Nisha,Tripuri,Cheese Burger,Burgers,1.0,199.0,UPI,Takeaway,199.0
+FF10191,2025-03-29,Rahul,Urban Estate,Lemonade,Beverages,3.0,89.0,UPI,Delivery,267.0
+FF10192,2025-01-15,Jaspreet,Tripuri,French Fries,Sides,1.0,99.0,Cash,Takeaway,99.0
+FF10193,2025-05-01,Rohan,Urban Estate,Cheese Burger,Burgers,4.0,199.0,UPI,Dine-in,796.0
+FF10194,2025-04-26,Ananya,Leela Bhawan,Farmhouse Pizza,Pizza,4.0,349.0,Card,Takeaway,1396.0
+FF10195,2025-03-10,Ananya,Urban Estate,Farmhouse Pizza,Pizza,2.0,349.0,UPI,Takeaway,698.0
+FF10196,2025-06-27,Kavya,Leela Bhawan,Classic Burger,Burgers,2.0,149.0,,Dine-in,298.0
+FF10197,2025-06-22,Harsh,Leela Bhawan,Cheese Burger,Burgers,2.0,199.0,UPI,Dine-in,398.0
+FF10198,2025-03-27,Sahil,Leela Bhawan,Classic Burger,Burgers,1.0,149.0,Card,Dine-in,149.0
+FF10199,2025-03-14,Simran,Leela Bhawan,French Fries,Sides,4.0,99.0,UPI,Dine-in,396.0
+FF10200,2025-05-08,Kavya,Urban Estate,Farmhouse Pizza,Pizza,4.0,349.0,Cash,Dine-in,1396.0
+FF10201,2025-05-16,Nisha,Urban Estate,Classic Burger,Burgers,2.0,149.0,UPI,Takeaway,298.0
+FF10202,2025-01-20,Sneha,Urban Estate,Margherita Pizza,Pizza,4.0,299.0,UPI,Delivery,1196.0
+FF10203,2025-03-13,Mehak,Leela Bhawan,Farmhouse Pizza,Pizza,1.0,349.0,Card,Dine-in,349.0
+FF10204,2025-03-12,Aditya,Urban Estate,Veg Burger,Burgers,4.0,129.0,UPI,Dine-in,516.0
+FF10205,2025-05-17,Ananya,Tripuri,Cold Coffee,Beverages,2.0,119.0,Card,Takeaway,238.0
+FF10206,2025-06-23,Sahil,Leela Bhawan,Margherita Pizza,Pizza,1.0,299.0,UPI,Dine-in,299.0
+FF10207,2025-03-22,Aditya,Leela Bhawan,Lemonade,Beverages,2.0,89.0,UPI,Dine-in,178.0
+FF10208,2025-04-25,Rohan,Model Town,Garlic Bread,Sides,3.0,129.0,Cash,Dine-in,387.0
+FF10209,2025-01-17,Jaspreet,Model Town,Margherita Pizza,Pizza,2.0,299.0,UPI,Dine-in,598.0
+FF10210,2025-03-07,Manish,Urban Estate,Veg Burger,Burgers,2.0,129.0,Card,Delivery,258.0
+FF10211,2025-05-13,Riya,Leela Bhawan,Lemonade,Beverages,4.0,89.0,UPI,Dine-in,356.0
+FF10212,2025-02-28,Kavya,Leela Bhawan,Farmhouse Pizza,Pizza,1.0,349.0,Cash,Takeaway,349.0
+FF10213,2025-03-01,Rahul,Tripuri,Garlic Bread,Sides,4.0,129.0,UPI,Takeaway,516.0
+FF10214,2025-02-28,Ananya,Model Town,Garlic Bread,Sides,3.0,129.0,Card,Dine-in,387.0
+FF10215,2025-06-24,Isha,Model Town,Garlic Bread,Sides,4.0,129.0,Card,Delivery,516.0
+FF10216,2025-04-20,Harsh,Urban Estate,Garlic Bread,Sides,1.0,129.0,UPI,Delivery,129.0
+FF10217,2025-01-02,Riya,Urban Estate,Chicken Wings,Sides,1.0,179.0,UPI,Dine-in,179.0
+FF10218,2025-02-08,Gurpreet,Tripuri,Garlic Bread,Sides,2.0,129.0,UPI,Delivery,258.0
+FF10219,2025-02-09,Tanvi,Model Town,Lemonade,Beverages,4.0,89.0,Card,Delivery,356.0
+FF10220,2025-06-29,Aman,Model Town,Veg Burger,Burgers,4.0,129.0,UPI,Delivery,516.0
+FF10221,2025-06-10,Sneha,Leela Bhawan,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Takeaway,349.0
+FF10222,2025-06-14,Rahul,Leela Bhawan,Garlic Bread,Sides,3.0,129.0,Card,Takeaway,387.0
+FF10223,2025-03-28,Karan,Tripuri,Veg Burger,Burgers,1.0,129.0,UPI,Delivery,129.0
+FF10224,2025-05-20,Tanvi,Urban Estate,Coke,Beverages,3.0,59.0,UPI,Delivery,177.0
+FF10225,2025-05-24,Tanvi,Tripuri,Chicken Wings,Sides,4.0,179.0,UPI,Dine-in,716.0
+FF10226,2025-06-04,Jaspreet,Urban Estate,Coke,Beverages,3.0,59.0,UPI,Delivery,177.0
+FF10227,2025-05-28,Harsh,Leela Bhawan,Veg Burger,Burgers,4.0,129.0,Cash,Dine-in,516.0
+FF10228,2025-02-15,Isha,Leela Bhawan,Cheese Burger,Burgers,2.0,199.0,cash,Dine-in,398.0
+FF10229,2025-04-27,Nisha,Urban Estate,Veg Burger,Burgers,1.0,129.0,Cash,Takeaway,129.0
+FF10230,2025-06-07,Kavya,Urban Estate,Coke,Beverages,3.0,59.0,UPI,Delivery,177.0
+FF10231,2025-03-29,Ananya,Leela Bhawan,Cold Coffee,Beverages,2.0,119.0,UPI,Dine-in,238.0
+FF10232,2025-05-26,Arjun,Urban Estate,Classic Burger,Burgers,3.0,149.0,Card,Dine-in,447.0
+FF10233,2025-01-30,Mehak,Urban Estate,Cheese Burger,Burgers,4.0,199.0,Card,Takeaway,796.0
+FF10234,2025-01-08,Vikas,Urban Estate,Classic Burger,Burgers,3.0,149.0,Card,Delivery,447.0
+FF10235,2025-04-13,Jaspreet,Model Town,French Fries,Sides,4.0,99.0,UPI,Takeaway,396.0
+FF10236,2025-05-08,Nisha,Model Town,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Dine-in,1396.0
+FF10237,2025-01-26,Riya,Model Town,Lemonade,Beverages,4.0,89.0,Cash,Takeaway,356.0
+FF10238,2025-05-08,Isha,Leela Bhawan,Coke,Beverages,3.0,59.0,UPI,Dine-in,177.0
+FF10239,2025-06-04,Aman,Leela Bhawan,Lemonade,Beverages,1.0,89.0,Card,Dine-in,89.0
+FF10240,2025-06-06,Aditya,Model Town,Classic Burger,Burgers,1.0,149.0,UPI,Dine-in,149.0
+FF10241,2025-03-13,Arjun,Urban Estate,Classic Burger,Burgers,1.0,149.0,Cash,Dine-in,149.0
+FF10242,2025-02-19,Arjun,Leela Bhawan,Cold Coffee,Beverages,4.0,119.0,UPI,Takeaway,476.0
+FF10243,2025-05-05,Isha,Leela Bhawan,Cheese Burger,Burgers,4.0,199.0,Card,Delivery,796.0
+FF10244,2025-01-22,Tanvi,Urban Estate,Garlic Bread,Sides,3.0,129.0,,Delivery,387.0
+FF10245,2025-04-08,Manish,Urban Estate,Lemonade,Beverages,4.0,89.0,Cash,Delivery,356.0
+FF10246,05/05/2025,Karan,Model Town,Veg Burger,Burgers,1.0,129.0,UPI,Delivery,129.0
+FF10247,2025-04-27,Simran,Model Town,Garlic Bread,Sides,4.0,129.0,UPI,Takeaway,516.0
+FF10248,03-06-2025,Rahul,Urban Estate,Margherita Pizza,Pizza,2.0,299.0,Card,Takeaway,598.0
+FF10249,2025-04-05,Nisha, MODEL TOWN,Cheese Burger,Burgers,3.0,199.0,UPI,Takeaway,597.0
+FF10250,2025-02-10,Jaspreet,Leela Bhawan,Chicken Wings,Sides,3.0,179.0,UPI,Takeaway,537.0
+FF10251,2025-01-25,Nisha,Tripuri,Margherita Pizza,Pizza,3.0,299.0,Card,Takeaway,897.0
+FF10252,2025-06-24,Tanvi,Tripuri,Chicken Wings,Sides,3.0,179.0,UPI,Takeaway,537.0
+FF10253,2025-01-15,Kavya,Leela Bhawan,Cheese Burger,Burgers,2.0,199.0,Card,Dine-in,398.0
+FF10254,2025-01-12,Tanvi,Tripuri,Cold Coffee,Beverages,3.0,119.0,Cash,Takeaway,357.0
+FF10255,2025-01-31,Pooja,Urban Estate,Coke,Beverages,2.0,59.0,UPI,Delivery,118.0
+FF10256,2025-04-13,Rahul,Urban Estate,Cheese Burger,Burgers,4.0,199.0,UPI,Delivery,796.0
+FF10257,2025-01-22,Simran,Urban Estate,Garlic Bread,Sides,4.0,129.0,UPI,Takeaway,516.0
+FF10258,2025-06-12,Nisha,Model Town,Lemonade,Beverages,,89.0,Card,Takeaway,
+FF10259,2025-01-13,Karan,Tripuri,Veg Burger,Burgers,1.0,129.0,UPI,Delivery,129.0
+FF10260,2025-01-09,Rahul,Tripuri,Lemonade,Beverages,2.0,89.0,Cash,Dine-in,178.0
+FF10261,2025-04-28,Ananya,Tripuri,Veg Burger,Burgers,-1.0,129.0,Cash,Delivery,-129.0
+FF10262,2025-04-19,Riya,Leela Bhawan,Cold Coffee,Beverages,3.0,119.0,UPI,Dine-in,357.0
+FF10263,2025-05-18,Simran,Leela Bhawan,Chicken Wings,Sides,4.0,179.0,Cash,Delivery,716.0
+FF10264,2025-02-24,Riya,Leela Bhawan,Garlic Bread,Sides,3.0,129.0,UPI,Dine-in,387.0
+FF10265,2025-04-04,Ananya,Leela Bhawan,French Fries,Sides,2.0,99.0,UPI,Dine-in,198.0
+FF10266,2025-06-14,Gurpreet,Urban Estate,Farmhouse Pizza,Pizza,2.0,349.0,Cash,Takeaway,698.0
+FF10267,2025-05-01,Ananya,Leela Bhawan,Veg Burger,Burgers,1.0,129.0,UPI,Dine-in,129.0
+FF10268,2025-01-16,Arjun,Leela Bhawan,Classic Burger,Burgers,1.0,149.0,UPI,Takeaway,149.0
+FF10269,2025-06-25,Harsh,Leela Bhawan,French Fries,Sides,2.0,99.0,Cash,Takeaway,198.0
+FF10270,2025-03-06,Yash,Tripuri,Cheese Burger,Burgers,4.0,199.0,Card,Dine-in,796.0
+FF10271,2025-03-31,Aman,Leela Bhawan,Margherita Pizza,Pizza,4.0,299.0,UPI,Dine-in,1196.0
+FF10272,2025-05-01,Kavya,Urban Estate,Chicken Wings,Sides,4.0,179.0,Card,Takeaway,716.0
+FF10273,2025-06-02,Sneha,Urban Estate,Coke,Beverages,1.0,59.0,Card,Takeaway,59.0
+FF10274,2025-06-19,Karan,Leela Bhawan,Coke,Beverages,4.0,59.0,Cash,Dine-in,236.0
+FF10275,2025-02-12,,Model Town,Coke,Beverages,4.0,59.0,Card,Delivery,236.0
+FF10276,2025-06-25,Arjun,Leela Bhawan,Classic Burger,Burgers,3.0,149.0,UPI,Delivery,447.0
+FF10277,2025-05-02,Isha,Leela Bhawan,Garlic Bread,Sides,1.0,129.0,Cash,Delivery,129.0
+FF10278,2025-02-28,Kavya,Model Town,French Fries,Sides,2.0,99.0,UPI,Delivery,198.0
+FF10279,2025-06-04,Sneha,Tripuri,Chicken Wings,Sides,4.0,179.0,Card,Dine-in,716.0
+FF10280,2025-01-16,Vikas,Leela Bhawan,Classic Burger,Burgers,2.0,149.0,UPI,Delivery,298.0
+FF10281,2025-03-26,Pooja,Leela Bhawan,Chicken Wings,Sides,1.0,179.0,UPI,Delivery,179.0
+FF10282,2025-01-26,Rahul,Tripuri,Cheese Burger,Burgers,2.0,199.0,Cash,Dine-in,398.0
+FF10283,2025-06-12,Riya,Tripuri,Cheese Burger,Burgers,2.0,199.0,Card,Delivery,398.0
+FF10284,2025-06-27,Jaspreet,Tripuri,French Fries,Sides,3.0,99.0,UPI,Dine-in,297.0
+FF10285,2025-03-07,Sneha,Leela Bhawan,Garlic Bread,Sides,2.0,129.0,Card,Delivery,258.0
+FF10286,2025-03-11,Pooja,Model Town,French Fries,Sides,2.0,99.0,Cash,Takeaway,198.0
+FF10287,2025-02-15,Mehak,Leela Bhawan,Coke,Beverages,1.0,59.0,UPI,Takeaway,59.0
+FF10288,2025-03-26,Manish,Tripuri,Cold Coffee,Beverages,4.0,119.0,UPI,Takeaway,476.0
+FF10289,2025-03-23,Tanvi,Leela Bhawan,Coke,Beverages,3.0,59.0,UPI,Delivery,177.0
+FF10290,2025-02-23,Rahul,Tripuri,Cheese Burger,Burgers,4.0,199.0,Cash,Takeaway,796.0
+FF10291,2025-03-24,Sneha,Leela Bhawan,Cheese Burger,Burgers,1.0,199.0,UPI,Takeaway,199.0
+FF10292,2025-05-09,Tanvi,Urban Estate,Garlic Bread,Sides,4.0,129.0,Card,Takeaway,516.0
+FF10293,2025-01-07,Vikas,Leela Bhawan,Coke,Beverages,3.0,59.0,Cash,Delivery,177.0
+FF10294,2025-04-24,Sahil,Leela Bhawan,Classic Burger,Burgers,4.0,149.0,Cash,Delivery,596.0
+FF10295,2025-03-09,Pooja,Tripuri,French Fries,Sides,3.0,99.0,Card,Takeaway,297.0
+FF10296,2025-01-24,Jaspreet,Tripuri,Margherita Pizza,Pizza,4.0,299.0,Cash,Delivery,1196.0
+FF10297,2025-03-26,Riya,Urban Estate,Classic Burger,Burgers,3.0,149.0,UPI,Takeaway,447.0
+FF10298,2025-02-27,Vikas,Leela Bhawan,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Dine-in,349.0
+FF10299,2025-04-20,Aditya,Tripuri,Cheese Burger,Burgers,3.0,199.0,UPI,Dine-in,597.0
+FF10300,2025-06-07,Isha,Model Town,Cheese Burger,Burgers,2.0,199.0,Card,Dine-in,398.0
+FF10301,2025-05-03,Sneha,Tripuri,Veg Burger,Burgers,4.0,129.0,UPI,Dine-in,516.0
+FF10302,2025-05-21,Jaspreet,Urban Estate,Cheese Burger,Burgers,3.0,199.0,Card,Takeaway,597.0
+FF10303,2025-01-31,Vikas,Urban Estate,Garlic Bread,Sides,3.0,129.0,Cash,Takeaway,387.0
+FF10304,2025-05-16,Kavya,Leela Bhawan,Chicken Wings,Sides,1.0,179.0,UPI,Delivery,179.0
+FF10305,2025-03-24,Sahil,Urban Estate,Farmhouse Pizza,Pizza,2.0,349.0,Cash,Delivery,698.0
+FF10306,2025-06-02,Sahil,Urban Estate,Classic Burger,Burgers,1.0,149.0,Card,Takeaway,149.0
+FF10307,2025-03-18,Jaspreet,Tripuri,Classic Burger,Burgers,1.0,149.0,Cash,Delivery,149.0
+FF10308,2025-03-11,Simran,Leela Bhawan ,Chicken Wings,Sides,1.0,179.0,Cash,Delivery,179.0
+FF10309,2025-06-24,Mehak,Urban Estate,Coke,Beverages,2.0,59.0,UPI,Delivery,118.0
+FF10310,2025-01-19,Vikas,Urban Estate,Chicken Wings,Sides,2.0,179.0,UPI,Dine-in,358.0
+FF10311,2025-01-17,Karan,Leela Bhawan,Margherita Pizza,Pizza,4.0,299.0,Card,Takeaway,1196.0
+FF10312,2025-02-11,Sahil,Model Town,French Fries,Sides,3.0,99.0,Card,Dine-in,297.0
+FF10313,2025-02-20,Karan,Urban Estate,Coke,Beverages,1.0,59.0,UPI,Delivery,59.0
+FF10314,2025-05-10,Rohan,Leela Bhawan,Coke,Beverages,3.0,59.0,Card,Delivery,177.0
+FF10315,2025-04-27,Rahul,Leela Bhawan,Garlic Bread,Sides,2.0,129.0,Card,Takeaway,258.0
+FF10316,2025-01-25,Aman,Model Town,French Fries,Sides,3.0,99.0,UPI,Dine-in,297.0
+FF10317,2025-01-14,Tanvi,Leela Bhawan,Veg Burger,Burgers,2.0,129.0,UPI,Takeaway,258.0
+FF10318,2025-01-04,Kavya,Model Town,Coke,Beverages,4.0,59.0,Cash,Delivery,236.0
+FF10319,2025-06-26,Sneha,Tripuri,Veg Burger,Burgers,4.0,,UPI,Takeaway,
+FF10320,2025-04-19,Simran,Tripuri,French Fries,Sides,1.0,99.0,Cash,Takeaway,99.0
+FF10321,2025-05-19,Tanvi,Urban Estate,Margherita Pizza,Pizza,4.0,299.0,Card,Dine-in,1196.0
+FF10322,2025-06-26,Vikas,Model Town,French Fries,Sides,2.0,99.0,,Delivery,198.0
+FF10323,2025-04-23,Mehak,Leela Bhawan,Coke,Beverages,3.0,59.0,Card,Takeaway,177.0
+FF10324,2025-01-18,Arjun,Leela Bhawan,Coke,Beverages,4.0,59.0,Cash,Delivery,236.0
+FF10325,2025-04-11,Arjun,Model Town,Margherita Pizza,Pizza,3.0,299.0,UPI,Delivery,897.0
+FF10326,2025-04-02,Neha,Urban Estate,Chicken Wings,Sides,2.0,179.0,UPI,Takeaway,358.0
+FF10327,2025-02-27,Harsh,Urban Estate,French Fries,Sides,2.0,99.0,UPI,Delivery,198.0
+FF10328,2025-06-16,Karan,Leela Bhawan,Margherita Pizza,Pizza,3.0,299.0,Card,Delivery,897.0
+FF10329,2025-01-05,Ananya,Model Town,French Fries,Sides,1.0,99.0,UPI,Dine-in,99.0
+FF10330,2025-03-04,Simran,Model Town,French Fries,Sides,3.0,99.0,Cash,Dine-in,297.0
+FF10331,2025-04-20,Pooja,Leela Bhawan,Coke,Beverages,4.0,59.0,Card,Takeaway,236.0
+FF10332,2025-06-13,Rohan,Model Town,Margherita Pizza,Pizza,3.0,299.0,Card,Delivery,897.0
+FF10333,2025-06-12,Isha,Tripuri,French Fries,Sides,2.0,99.0,UPI,Delivery,198.0
+FF10334,2025-01-14,Jaspreet,Tripuri,Classic Burger,Burgers,4.0,149.0,UPI,Dine-in,596.0
+FF10335,2025-03-09,Sneha,Leela Bhawan,Margherita Pizza,Pizza,3.0,299.0,Card,Dine-in,897.0
+FF10336,2025-06-07,Vikas,Tripuri,Coke,Beverages,3.0,59.0,UPI,Takeaway,177.0
+FF10337,2025-03-23,Aditya,Leela Bhawan,Classic Burger,Burgers,4.0,149.0,UPI,Delivery,596.0
+FF10338,2025-05-19,Sneha,Urban Estate,Farmhouse Pizza,Pizza,2.0,349.0,Cash,Takeaway,698.0
+FF10339,2025-04-27,Neha,Urban Estate,Lemonade,Beverages,2.0,89.0,Card,Takeaway,178.0
+FF10340,2025-04-16,Aditya,Leela Bhawan,Chicken Wings,Sides,-1.0,179.0,UPI,Takeaway,-179.0
+FF10341,2025-05-30,Tanvi,Leela Bhawan,Garlic Bread,Sides,2.0,129.0,UPI,Takeaway,258.0
+FF10342,2025-01-09,Riya,Leela Bhawan,French Fries,Sides,2.0,99.0,UPI,Delivery,198.0
+FF10343,2025-03-21,Harsh,Tripuri,Lemonade,Beverages,2.0,89.0,Cash,Takeaway,178.0
+FF10344,2025-06-17,Mehak,Urban Estate,French Fries,Sides,3.0,99.0,UPI,Dine-in,297.0
+FF10345,2025-04-28,Manish,Tripuri,Coke,Beverages,1.0,59.0,Cash,Delivery,59.0
+FF10346,2025-03-17,Rohan,Leela Bhawan,Margherita Pizza,Pizza,3.0,299.0,Card,Dine-in,897.0
+FF10347,2025-06-17,Ananya,Leela Bhawan,Cheese Burger,Burgers,1.0,199.0,UPI,Takeaway,199.0
+FF10348,2025-06-23,Gurpreet,Leela Bhawan,Veg Burger,Burgers,3.0,129.0,Card,Takeaway,387.0
+FF10349,2025-06-18,Kavya,Urban Estate,Veg Burger,Burgers,3.0,129.0,Cash,Takeaway,387.0
+FF10350,2025-06-23,Neha,,Classic Burger,Burgers,4.0,149.0,Cash,Dine-in,596.0
+FF10351,2025-05-13,Riya,Model Town,Coke,Beverages,3.0,59.0,Card,Delivery,177.0
+FF10352,2025-03-17,Rohan,Model Town,Classic Burger,Burgers,4.0,149.0,Cash,Delivery,596.0
+FF10353,2025-03-09,Riya,,Cheese Burger,Burgers,2.0,199.0,Card,Dine-in,398.0
+FF10354,2025-02-16,Aditya,Leela Bhawan,Classic Burger,Burgers,2.0,149.0,UPI,Delivery,298.0
+FF10355,2025-02-10,Vikas,Urban Estate,Chicken Wings,Sides,0.0,179.0,UPI,Dine-in,0.0
+FF10356,2025-05-24,Riya,Urban Estate,French Fries,Sides,3.0,99.0,Cash,Takeaway,297.0
+FF10357,2025-03-18,Arjun,Urban Estate,Lemonade,Beverages,3.0,89.0,Card,Delivery,267.0
+FF10358,2025-01-17,Rohan,Leela Bhawan,Lemonade,Beverages,3.0,89.0,Card,Dine-in,267.0
+FF10359,2025-01-24,Nisha,Urban Estate,French Fries,Sides,2.0,99.0,Cash,Takeaway,198.0
+FF10360,2025-03-21,Isha,Urban Estate,Veg Burger,Burgers,1.0,129.0,UPI,Takeaway,129.0
+FF10361,2025-03-28,Harsh,Model Town,Cold Coffee,Beverages,1.0,119.0,UPI,Delivery,119.0
+FF10362,2025-02-03,Rahul,Urban Estate,Cold Coffee,Beverages,1.0,119.0,Cash,Takeaway,119.0
+FF10363,2025-05-26,Sneha,Urban Estate,Classic Burger,Burgers,2.0,149.0,UPI,Delivery,298.0
+FF10364,2025-02-18,Isha,Model Town,Margherita Pizza,Pizza,3.0,299.0,Card,Delivery,897.0
+FF10365,2025-01-13,Jaspreet,Leela Bhawan,Classic Burger,Burgers,1.0,149.0,UPI,Delivery,149.0
+FF10366,2025-06-06,Pooja,Model Town,Cheese Burger,Burgers,3.0,199.0,UPI,Takeaway,597.0
+FF10367,2025-05-05,Harsh,Model Town,Margherita Pizza,Pizza,2.0,299.0,UPI,Dine-in,598.0
+FF10368,2025-01-21,Aman,Model Town,Coke,Beverages,4.0,59.0,Card,Dine-in,236.0
+FF10369,2025-01-17,Riya,Model Town,Coke,Beverages,1.0,59.0,UPI,Delivery,59.0
+FF10370,2025-05-31,Sneha,Model Town,Veg Burger,Burgers,4.0,129.0,UPI,Delivery,516.0
+FF10371,2025-06-01,Aman,Tripuri,Garlic Bread,Sides,4.0,129.0,Card,Dine-in,516.0
+FF10372,2025-02-09,Tanvi,Model Town,Farmhouse Pizza,Pizza,2.0,349.0,Card,Takeaway,698.0
+FF10373,2025-06-13,Yash,Leela Bhawan,French Fries,Sides,4.0,99.0,UPI,Takeaway,396.0
+FF10374,2025-04-24,Neha,Leela Bhawan,Lemonade,Beverages,1.0,89.0,Cash,Delivery,89.0
+FF10375,2025-06-09,Harsh,Tripuri,French Fries,Sides,1.0,99.0,UPI,Dine-in,99.0
+FF10376,2025-04-19,Vikas,Leela Bhawan,Cold Coffee,Beverages,1.0,119.0,Cash,Dine-in,119.0
+FF10377,2025-05-05,Nisha,Urban Estate,Farmhouse Pizza,Pizza,2.0,349.0,UPI,Delivery,698.0
+FF10378,2025-05-08,Manish,Leela Bhawan,Lemonade,Beverages,3.0,89.0,UPI,Dine-in,267.0
+FF10379,2025-02-10,Karan,Urban Estate,Coke,Beverages,1.0,59.0,UPI,Dine-in,59.0
+FF10380,2025-04-25,Pooja,Urban Estate,Margherita Pizza,Pizza,2.0,299.0,Cash,Dine-in,598.0
+FF10381,2025-01-26,Arjun,Model Town,Garlic Bread,Sides,1.0,129.0,UPI,Takeaway,129.0
+FF10382,2025-01-29,Sahil,Tripuri,Garlic Bread,Sides,2.0,129.0,UPI,Dine-in,258.0
+FF10383,2025-01-12,Manish,Leela Bhawan,Farmhouse Pizza,Pizza,,349.0,UPI,Dine In,
+FF10384,2025-05-12,Riya,Model Town,Chicken Wings,Sides,4.0,179.0,UPI,Dine-in,716.0
+FF10385,2025-04-28,Isha,Model Town,Chicken Wings,Sides,3.0,179.0,UPI,Takeaway,537.0
+FF10386,2025-05-07,Kavya,Leela Bhawan ,Chicken Wings,Sides,3.0,179.0,Cash,Dine-in,537.0
+FF10387,2025-06-19,Aditya,Model Town,Garlic Bread,Sides,3.0,129.0,UPI,Takeaway,387.0
+FF10388,2025-05-31,Riya,Urban Estate,Veg Burger,Burgers,1.0,129.0,Cash,Takeaway,129.0
+FF10389,2025-02-05,Kavya,Tripuri,Margherita Pizza,Pizza,3.0,299.0,UPI,Delivery,897.0
+FF10390,2025-06-18,,Leela Bhawan,Garlic Bread,Sides,4.0,129.0,Card,Delivery,516.0
+FF10391,2025-04-30,Gurpreet,Urban Estate,Classic Burger,Burgers,1.0,149.0,UPI,Dine-in,149.0
+FF10392,2025-01-01,Yash,Leela Bhawan,Farmhouse Pizza,Pizza,3.0,349.0,UPI,Takeaway,1047.0
+FF10393,2025-01-18,Aditya,Tripuri,French Fries,Sides,4.0,99.0,UPI,Delivery,396.0
+FF10394,2025-01-01,Karan,Urban Estate,Veg Burger,Burgers,1.0,129.0,Cash,Takeaway,129.0
+FF10395,2025-05-16,Sahil,Leela Bhawan,Classic Burger,Burgers,1.0,149.0,UPI,Takeaway,149.0
+FF10396,2025-03-29,Aditya,Leela Bhawan,French Fries,Sides,2.0,99.0,Card,Dine-in,198.0
+FF10397,2025-02-12,Yash,Leela Bhawan,Margherita Pizza,Pizza,4.0,299.0,UPI,Delivery,1196.0
+FF10398,2025-06-11,Manish,Urban Estate,Garlic Bread,Sides,1.0,129.0,UPI,Dine-in,129.0
+FF10399,2025-05-16,Mehak,Urban Estate,Classic Burger,Burgers,1.0,149.0,Cash,Dine-in,149.0
+FF10400,2025-06-26,Aman,Model Town,Farmhouse Pizza,Pizza,1.0,349.0,Cash,Dine-in,349.0
+FF10401,2025-01-05,Jaspreet,Tripuri,Lemonade,Beverages,4.0,89.0,Cash,Takeaway,356.0
+FF10402,2025-05-29,Arjun,Tripuri,Margherita Pizza,Pizza,2.0,299.0,UPI ,Takeaway,598.0
+FF10403,2025-03-24,Riya,Urban Estate,Cold Coffee,Beverages,2.0,119.0,UPI,Dine-in,238.0
+FF10404,2025-01-03,Jaspreet,Leela Bhawan,French Fries,Sides,2.0,99.0,UPI,Delivery,198.0
+FF10405,2025-02-17,Vikas,Urban Estate,Garlic Bread,Sides,4.0,129.0,Card,Delivery,516.0
+FF10406,2025-06-18,Vikas,Leela Bhawan,Coke,Beverages,1.0,59.0,Card,Dine In,59.0
+FF10407,2025-05-11,Rohan,Tripuri,Cheese Burger,Burgers,2.0,199.0,Card,Takeaway,398.0
+FF10408,2025-05-02,Aman,Model Town,Lemonade,Beverages,3.0,89.0,UPI,Delivery,267.0
+FF10409,2025-01-29,Jaspreet,Urban Estate,Chicken Wings,Sides,3.0,179.0,Card,Delivery,537.0
+FF10410,2025-06-06,Aman,Urban Estate,Veg Burger,Burgers,3.0,129.0,UPI,Delivery,387.0
+FF10411,2025-05-25,Rahul,Leela Bhawan,Lemonade,Beverages,1.0,89.0,Cash,Dine-in,89.0
+FF10412,2025-02-10,Gurpreet,Urban Estate,Lemonade,Beverages,4.0,89.0,Card,Delivery,356.0
+FF10413,2025-01-03,Gurpreet,Urban Estate,French Fries,Sides,3.0,99.0,UPI,Takeaway,297.0
+FF10414,2025-04-21,Kavya,Tripuri,Classic Burger,Burgers,1.0,149.0,Card,Delivery,149.0
+FF10415,2025-06-01,Simran,Tripuri,Margherita Pizza,Pizza,3.0,299.0,UPI,Delivery,897.0
+FF10416,2025-01-09,Manish,Leela Bhawan,Coke,Beverages,2.0,59.0,Cash,Takeaway,118.0
+FF10417,2025-03-08,Kavya,Model Town,Cheese Burger,Burgers,2.0,199.0,UPI,Takeaway,398.0
+FF10418,2025-06-21,Rahul,Leela Bhawan,French Fries,Sides,3.0,99.0,Card,Delivery,297.0
+FF10419,2025-03-16,Nisha,Urban Estate,Cheese Burger,Burgers,4.0,199.0,Cash,Delivery,796.0
+FF10420,2025-02-18,Tanvi,Urban Estate,Garlic Bread,Sides,1.0,129.0,UPI,Dine-in,129.0
+FF10421,2025-02-08,Arjun,Leela Bhawan,Coke,Beverages,3.0,59.0,Card,Dine-in,177.0
+FF10422,2025-04-08,Kavya,Model Town,French Fries,Sides,4.0,99.0,UPI,Dine-in,396.0
+FF10423,2025-03-21,Aman,Urban Estate,Coke,Beverages,2.0,59.0,Cash,Dine-in,118.0
+FF10424,2025-04-23,Aman,Tripuri,Cold Coffee,Beverages,1.0,119.0,UPI,Dine-in,119.0
+FF10425,2025-02-25,Sahil,Model Town,Margherita Pizza,Pizza,2.0,299.0,UPI,Takeaway,598.0
+FF10426,2025-05-17,Pooja,Urban Estate,Cheese Burger,Burgers,4.0,199.0,UPI,Dine-in,796.0
+FF10427,2025-05-06,,Leela Bhawan,Cold Coffee,Beverages,2.0,119.0,UPI,Dine-in,238.0
+FF10428,2025-04-21,Nisha,Urban Estate,Margherita Pizza,Pizza,4.0,299.0,UPI,Delivery,1196.0
+FF10429,2025-01-17,Karan,Model Town,Coke,Beverages,3.0,59.0,UPI,Delivery,177.0
+FF10430,2025-02-24,Jaspreet,Leela Bhawan,Classic Burger,Burgers,3.0,149.0,UPI,Takeaway,447.0
+FF10431,2025-06-08,Mehak,Urban Estate,Margherita Pizza,Pizza,1.0,299.0,Card,Dine-in,299.0
+FF10432,2025-05-07,Karan,Tripuri,Cheese Burger,Burgers,1.0,199.0,UPI,Takeaway,199.0
+FF10433,2025-05-30,Aman,Urban Estate,Veg Burger,Burgers,3.0,129.0,Card,Delivery,387.0
+FF10434,2025-04-30,Pooja,Urban Estate,Coke,Beverages,1.0,59.0,Card,Delivery,59.0
+FF10435,2025-02-19,Kavya,Leela Bhawan,French Fries,Sides,1.0,99.0,UPI,Takeaway,99.0
+FF10436,2025-05-19,Ananya,Urban Estate,Garlic Bread,Sides,2.0,129.0,Cash,Dine-in,258.0
+FF10437,2025-02-02,Karan,Urban Estate,Coke,Beverages,1.0,59.0,Cash,Takeaway,59.0
+FF10438,2025-03-19,Manish,URBAN ESTATE,Lemonade,Beverages,2.0,89.0,UPI,Dine-in,178.0
+FF10439,2025-04-27,Isha,Tripuri,French Fries,Sides,1.0,99.0,UPI,Dine-in,99.0
+FF10440,2025-02-13,Gurpreet,Urban Estate,Veg Burger,Burgers,4.0,129.0,UPI,Delivery,516.0
+FF10441,2025-05-31,Kavya,Urban Estate,Farmhouse Pizza,Pizza,2.0,349.0,Cash,Delivery,698.0
+FF10442,2025-05-07,Simran,Tripuri,Coke,Beverages,2.0,59.0,Cash,Delivery,118.0
+FF10443,2025-05-24,Kavya,Model Town,Garlic Bread,Sides,3.0,129.0,UPI,dine in,387.0
+FF10444,2025-05-11,Mehak,Urban Estate,French Fries,Sides,2.0,99.0,UPI,Delivery,198.0
+FF10445,2025-01-11,Nisha,Leela Bhawan,Margherita Pizza,Pizza,1.0,299.0,UPI,Delivery,299.0
+FF10446,2025-06-27,,Urban Estate,Margherita Pizza,Pizza,4.0,299.0,UPI,Takeaway,1196.0
+FF10447,2025-05-22,Isha,Tripuri,Lemonade,Beverages,2.0,89.0,UPI,Delivery,178.0
+FF10448,2025-01-24,Isha,Leela Bhawan,Farmhouse Pizza,Pizza,4.0,349.0,Cash,Takeaway,1396.0
+FF10449,2025-04-19,Ananya,Urban Estate,Classic Burger,Burgers,2.0,149.0,Cash,Takeaway,298.0
+FF10450,2025-03-27,Karan,Model Town,Cold Coffee,Beverages,4.0,119.0,Card,Delivery,476.0
+FF10451,2025-04-10,Harsh,Urban Estate,Classic Burger,Burgers,3.0,149.0,UPI,Takeaway,447.0
+FF10452,2025-03-10,Kavya,Urban Estate,Veg Burger,Burgers,3.0,129.0,UPI,Dine-in,387.0
+FF10453,2025-06-15,Isha,Model Town,Veg Burger,Burgers,1.0,129.0,Card,Delivery,129.0
+FF10454,2025-06-23,Simran,Urban Estate,French Fries,Sides,2.0,99.0,UPI,Delivery,198.0
+FF10455,2025-02-28,Neha,Model Town,Margherita Pizza,Pizza,2.0,299.0,UPI,Dine-in,598.0
+FF10456,2025-06-04,Mehak,Tripuri,Farmhouse Pizza,Pizza,2.0,349.0,Card,Dine-in,698.0
+FF10457,2025-06-26,Yash,Model Town,Margherita Pizza,Pizza,3.0,299.0,UPI,Takeaway,897.0
+FF10458,2025-05-29,Arjun,Leela Bhawan,Coke,Beverages,4.0,59.0,UPI,Delivery,236.0
+FF10459,2025-03-20,Kavya,Model Town,Cheese Burger,Burgers,4.0,199.0,Card,Takeaway,796.0
+FF10460,2025-06-17,Rohan,Urban Estate,Cheese Burger,Burgers,1.0,199.0,Card,Delivery,199.0
+FF10461,2025-04-28,Jaspreet,Urban Estate,Cold Coffee,Beverages,3.0,119.0,UPI,Delivery,357.0
+FF10462,2025-04-21,Jaspreet,Tripuri,French Fries,Sides,3.0,99.0,UPI,Delivery,297.0
+FF10463,2025-03-22,Vikas,Leela Bhawan,French Fries,Sides,4.0,99.0,UPI,Dine-in,396.0
+FF10464,2025-04-21,Aditya,Model Town,Chicken Wings,Sides,3.0,179.0,Card,Delivery,537.0
+FF10465,2025-01-11,Isha,Leela Bhawan,French Fries,Sides,1.0,99.0,UPI,Delivery,99.0
+FF10466,2025-01-11,Karan,Leela Bhawan,Cheese Burger,Burgers,3.0,199.0,Cash,Dine-in,597.0
+FF10467,2025-02-16,Tanvi,Tripuri,Margherita Pizza,Pizza,4.0,299.0,Card,Dine-in,1196.0
+FF10468,2025-03-17,Manish,Leela Bhawan,Coke,Beverages,3.0,59.0,UPI,Dine-in,177.0
+FF10469,2025-02-25,Isha,Urban Estate,Garlic Bread,Sides,3.0,129.0,UPI,Delivery,387.0
+FF10470,2025-04-08,Vikas,Tripuri,Margherita Pizza,Pizza,3.0,299.0,Cash,Delivery,897.0
+FF10471,2025-05-28,Harsh,Tripuri,Classic Burger,Burgers,2.0,149.0,UPI,Delivery,298.0
+FF10472,2025-06-29,Simran,Urban Estate,Chicken Wings,Sides,4.0,179.0,Cash,Takeaway,716.0
+FF10473,2025-02-09,Neha,Urban Estate,Veg Burger,Burgers,1.0,129.0,Card,Delivery,129.0
+FF10474,2025-03-24,Simran,Model Town,Garlic Bread,Sides,2.0,129.0,UPI,Delivery,258.0
+FF10475,2025-02-14,Pooja,Urban Estate,Chicken Wings,Sides,1.0,179.0,Card,Takeaway,179.0
+FF10476,2025-03-25,Jaspreet,Leela Bhawan,Farmhouse Pizza,Pizza,4.0,349.0,Card,Takeaway,1396.0
+FF10477,2025-04-07,Riya,Model Town,Classic Burger,Burgers,4.0,149.0,Card,Delivery,596.0
+FF10478,2025-05-01,Arjun,Leela Bhawan,Veg Burger,Burgers,4.0,129.0,UPI,Delivery,516.0
+FF10479,2025-01-05,Yash,Leela Bhawan,French Fries,Sides,1.0,99.0,UPI,Dine-in,99.0
+FF10480,2025-02-11,Ananya,Model Town,Chicken Wings,Sides,4.0,179.0,UPI,Dine-in,716.0
+FF10481,2025-03-09,Rohan,Tripuri,Cold Coffee,Beverages,4.0,119.0,UPI,Takeaway,476.0
+FF10482,2025-06-21,Karan,Model Town,Veg Burger,Burgers,2.0,129.0,Cash,Dine-in,258.0
+FF10483,2025-05-24,Nisha,Leela Bhawan,Cold Coffee,Beverages,2.0,119.0,UPI,Takeaway,238.0
+FF10484,2025-03-04,Kavya,Urban Estate,Coke,Beverages,2.0,59.0,Card,Dine-in,118.0
+FF10485,2025-06-15,Nisha,Leela Bhawan,Farmhouse Pizza,Pizza,1.0,349.0,Cash,Delivery,349.0
+FF10486,2025-06-12,Manish,Leela Bhawan,Veg Burger,Burgers,3.0,129.0,UPI,Takeaway,387.0
+FF10487,2025-06-07,Aditya,Leela Bhawan,Garlic Bread,Sides,1.0,129.0,UPI,Delivery,129.0
+FF10488,2025-01-04,Sahil,Tripuri,Classic Burger,Burgers,3.0,149.0,Card,Takeaway,447.0
+FF10489,2025-03-16,Riya,Tripuri,French Fries,Sides,3.0,99.0,UPI,Delivery,297.0
+FF10490,2025-06-23,Pooja,Model Town,Lemonade,Beverages,4.0,89.0,Card,Dine-in,356.0
+FF10491,2025-03-22,Rohan,Leela Bhawan,Garlic Bread,Sides,3.0,129.0,Card,Takeaway,387.0
+FF10492,2025-01-23,Karan,Model Town,Classic Burger,Burgers,2.0,149.0,Card,Delivery,298.0
+FF10493,2025-05-17,Aditya,Tripuri,Lemonade,Beverages,4.0,89.0,Cash,Takeaway,356.0
+FF10494,2025-03-14,Riya,Tripuri,Margherita Pizza,Pizza,3.0,299.0,UPI,Takeaway,897.0
+FF10495,2025-01-10,Karan,Urban Estate,Cold Coffee,Beverages,3.0,119.0,UPI,Dine-in,357.0
+FF10496,2025-04-25,Manish,Model Town,Cheese Burger,Burgers,1.0,199.0,UPI,Delivery,199.0
+FF10497,2025-04-25,Rahul,Urban Estate,Cold Coffee,Beverages,4.0,119.0,Card,Delivery,476.0
+FF10498,2025-02-24,Karan,Tripuri,Cheese Burger,Burgers,3.0,199.0,UPI,Delivery,597.0
+FF10499,2025-03-07,Sneha,Tripuri,Veg Burger,Burgers,4.0,129.0,UPI,Takeaway,516.0
+FF10500,2025-01-26,Simran,Model Town,Cold Coffee,Beverages,3.0,119.0,UPI,Takeaway,357.0
+FF10501,2025-01-19,Simran,Leela Bhawan,Coke,Beverages,2.0,59.0,Cash,Delivery,118.0
+FF10502,2025-03-31,Vikas,Leela Bhawan,Farmhouse Pizza,Pizza,1.0,349.0,Card,Delivery,349.0
+FF10503,2025-03-10,Yash,Urban Estate,Cheese Burger,Burgers,3.0,199.0,,Takeaway,597.0
+FF10504,2025-04-19,Neha,Tripuri,Coke,Beverages,3.0,59.0,Card,Takeaway,177.0
+FF10505,2025-05-11,Isha,Urban Estate,Chicken Wings,Sides,2.0,179.0,UPI,Takeaway,358.0
+FF10506,2025-04-02,Rahul,Urban Estate,Lemonade,Beverages,4.0,89.0,Card,Takeaway,356.0
+FF10507,2025-06-16,Aditya,Urban Estate,French Fries,Sides,1.0,99.0,UPI,Delivery,99.0
+FF10508,2025-06-08,Aditya,Urban Estate,Classic Burger,Burgers,4.0,149.0,Card,Delivery,596.0
+FF10509,2025-01-01,Jaspreet,Urban Estate,Margherita Pizza,Pizza,3.0,299.0,UPI,Delivery,897.0
+FF10510,2025-04-14,Kavya,Tripuri,Cheese Burger,Burgers,3.0,199.0,Cash,Dine-in,597.0
+FF10511,2025-05-09,Mehak,Tripuri,Coke,Beverages,2.0,59.0,UPI,Takeaway,118.0
+FF10512,2025-06-28,Isha,Model Town,Cheese Burger,Burgers,3.0,199.0,Cash,Delivery,597.0
+FF10513,2025-02-13,Vikas,Urban Estate,Farmhouse Pizza,Pizza,2.0,349.0,UPI,Takeaway,698.0
+FF10514,2025-05-13,Yash,Tripuri,Chicken Wings,Sides,2.0,179.0,UPI,Delivery,358.0
+FF10515,2025-03-20,Jaspreet,Model Town,Cheese Burger,Burgers,2.0,199.0,Card,Delivery,398.0
+FF10516,2025-03-22,Gurpreet,Tripuri,Chicken Wings,Sides,1.0,179.0,Cash,Delivery,179.0
+FF10517,2025-03-11,Yash,Leela Bhawan,Margherita Pizza,Pizza,4.0,299.0,UPI,Dine-in,1196.0
+FF10518,2025-04-01,Gurpreet,Urban Estate,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Delivery,1396.0
+FF10519,2025-05-05,Isha,Urban Estate,Chicken Wings,Sides,1.0,179.0,UPI,Dine-in,179.0
+FF10520,2025-01-03,Gurpreet,Leela Bhawan,Margherita Pizza,Pizza,1.0,299.0,UPI,Delivery,299.0
+FF10521,2025-04-29,Isha,Leela Bhawan,Classic Burger,Burgers,4.0,149.0,UPI,Delivery,596.0
+FF10522,2025-03-16,Karan,Model Town,Coke,Beverages,4.0,59.0,Cash,Dine-in,236.0
+FF10523,2025-01-20,Gurpreet,Urban Estate,Margherita Pizza,Pizza,1.0,299.0,UPI,Takeaway,299.0
+FF10524,2025-06-24,Pooja,Tripuri,French Fries,Sides,2.0,99.0,Cash,Dine-in,198.0
+FF10525,2025-01-14,Neha,Tripuri,Cold Coffee,Beverages,3.0,119.0,UPI,Delivery,357.0
+FF10526,2025-03-31,Karan,Leela Bhawan,Garlic Bread,Sides,1.0,129.0,Cash,Delivery,129.0
+FF10527,2025-03-07,Rahul,Leela Bhawan,French Fries,Sides,3.0,99.0,UPI,Dine-in,297.0
+FF10528,2025-01-10,Rahul,Leela Bhawan,Garlic Bread,Sides,2.0,129.0,Card,Delivery,258.0
+FF10529,2025-01-30,Isha,Model Town,French Fries,Sides,4.0,99.0,Card,Delivery,396.0
+FF10530,2025-05-05,Tanvi,Model Town,Cold Coffee,Beverages,1.0,119.0,UPI,Dine-in,119.0
+FF10531,2025-06-27,Isha,Leela Bhawan,Classic Burger,Burgers,3.0,149.0,Cash,Takeaway,447.0
+FF10532,2025-04-08,Harsh,Leela Bhawan,Cheese Burger,Burgers,3.0,199.0,UPI,Delivery,597.0
+FF10533,2025-01-31,Mehak,Leela Bhawan,Cold Coffee,Beverages,1.0,119.0,Card,Dine-in,119.0
+FF10534,2025-04-10,Harsh,Urban Estate,Veg Burger,Burgers,3.0,129.0,UPI,Delivery,387.0
+FF10535,2025-02-02,Rohan,Model Town,Chicken Wings,Sides,4.0,179.0,Card,Takeaway,716.0
+FF10536,2025-01-21,Jaspreet,Leela Bhawan,Cold Coffee,Beverages,2.0,119.0,Cash,Dine-in,238.0
+FF10537,2025-06-23,Nisha,Tripuri,Garlic Bread,Sides,3.0,129.0,Card,Dine-in,387.0
+FF10538,2025-04-11,Karan,Tripuri,French Fries,Sides,2.0,99.0,UPI,Dine-in,198.0
+FF10539,2025-02-06,Nisha,Leela Bhawan,French Fries,Sides,1.0,99.0,UPI,Dine-in,99.0
+FF10540,2025-05-16,Jaspreet,Tripuri,Margherita Pizza,Pizza,2.0,299.0,,Dine-in,598.0
+FF10541,2025-02-26,Tanvi,Model Town,Cold Coffee,Beverages,4.0,119.0,Cash,Delivery,476.0
+FF10542,2025-05-21,Jaspreet,Tripuri,Margherita Pizza,Pizza,3.0,299.0,Cash,Delivery,897.0
+FF10543,2025-01-20,Neha,Leela Bhawan,Veg Burger,Burgers,3.0,129.0,UPI,Dine-in,387.0
+FF10544,2025-05-09,Rahul,Urban Estate,French Fries,Sides,4.0,99.0,UPI,Dine-in,396.0
+FF10545,2025-01-28,Yash,Model Town,Coke,Beverages,3.0,59.0,UPI,Delivery,177.0
+FF10546,2025-05-04,Gurpreet,Leela Bhawan,Lemonade,Beverages,3.0,89.0,Card,Takeaway,267.0
+FF10547,2025-04-29,Jaspreet,Tripuri,French Fries,Sides,2.0,99.0,UPI,Takeaway,198.0
+FF10548,2025-02-21,Vikas,Urban Estate,Chicken Wings,Sides,4.0,179.0,UPI,Delivery,716.0
+FF10549,2025-01-10,Mehak,Urban Estate,Coke,Beverages,4.0,59.0,UPI,Dine-in,236.0
+FF10550,2025-01-20,Sneha,Urban estate ,Cheese Burger,Burgers,4.0,199.0,UPI,Dine-in,796.0
+FF10551,2025-06-18,Arjun,Urban Estate,Lemonade,Beverages,1.0,89.0,Cash,Takeaway,89.0
+FF10552,2025-01-07,Kavya,Leela Bhawan,Farmhouse Pizza,Pizza,4.0,349.0,Cash,Takeaway,1396.0
+FF10553,2025-06-26,Tanvi,Leela Bhawan,Margherita Pizza,Pizza,4.0,299.0,UPI,Delivery,1196.0
+FF10554,2025-04-16,Manish,Tripuri,Cold Coffee,Beverages,2.0,119.0,UPI,Delivery,238.0
+FF10555,2025-02-03,Arjun,Model Town,Garlic Bread,Sides,3.0,129.0,UPI,Delivery,387.0
+FF10556,2025-03-19,Neha,Model Town,Cold Coffee,Beverages,1.0,119.0,UPI,Dine-in,119.0
+FF10557,2025-01-26,Mehak,Urban Estate,Classic Burger,Burgers,4.0,149.0,Card,Delivery,596.0
+FF10558,2025-03-23,Vikas,URBAN ESTATE,Garlic Bread,Sides,4.0,129.0,UPI,Takeaway,516.0
+FF10559,2025-06-27,Harsh,Model Town,Chicken Wings,Sides,3.0,179.0,UPI,Takeaway,537.0
+FF10560,2025-05-27,Sahil,Urban Estate,Lemonade,Beverages,1.0,89.0,UPI,Delivery,89.0
+FF10561,2025-01-04,Vikas,Model Town,Chicken Wings,Sides,2.0,179.0,UPI,Delivery,358.0
+FF10562,2025-04-03,Isha,Tripuri,Garlic Bread,Sides,1.0,129.0,Card,delivery ,129.0
+FF10563,2025-06-29,Karan,Model Town,Classic Burger,Burgers,1.0,149.0,UPI,Delivery,149.0
+FF10564,2025-05-13,Arjun,Leela Bhawan,Farmhouse Pizza,Pizza,3.0,349.0,Cash,Dine-in,1047.0
+FF10565,2025-01-10,Kavya,Leela Bhawan,Cold Coffee,Beverages,3.0,119.0,UPI,Delivery,357.0
+FF10566,2025-02-15,Tanvi,Model Town,Chicken Wings,Sides,4.0,179.0,UPI,Takeaway,716.0
+FF10567,2025-06-24,Nisha,Leela Bhawan,Cheese Burger,Burgers,2.0,199.0,UPI,Takeaway,398.0
+FF10568,2025-02-10,Aman,Model Town,Cold Coffee,Beverages,4.0,119.0,Card,Dine-in,476.0
+FF10569,2025-06-15,Nisha,Model Town,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Dine-in,1396.0
+FF10570,2025-02-18,Rahul,Leela Bhawan,Classic Burger,Burgers,4.0,149.0,Card,Delivery,596.0
+FF10571,2025-05-06,Tanvi,Tripuri,Lemonade,Beverages,3.0,89.0,Cash,Delivery,267.0
+FF10572,2025-01-22,Arjun,Leela Bhawan,Veg Burger,Burgers,2.0,129.0,UPI,Takeaway,258.0
+FF10573,2025-06-25,Ananya,Model Town,French Fries,Sides,2.0,99.0,Cash,Delivery,198.0
+FF10574,2025-05-08,Sneha,Urban Estate,Chicken Wings,Sides,2.0,179.0,UPI,Takeaway,358.0
+FF10575,2025-06-09,Isha,Model Town,Coke,Beverages,2.0,59.0,Cash,Dine-in,118.0
+FF10576,2025-03-27,Harsh,Leela Bhawan,Garlic Bread,Sides,4.0,129.0,Cash,Delivery,516.0
+FF10577,2025-05-01,Kavya,Model Town,Coke,Beverages,3.0,59.0,UPI,Takeaway,177.0
+FF10578,2025-05-29,Harsh,Tripuri,Garlic Bread,Sides,2.0,129.0,UPI,Takeaway,258.0
+FF10579,2025-03-12,Gurpreet,Leela Bhawan,Coke,Beverages,1.0,59.0,Card,Delivery,59.0
+FF10580,2025-04-21,Sneha,Leela Bhawan,Veg Burger,Burgers,2.0,129.0,Cash,Delivery,258.0
+FF10581,2025-02-11,Yash,Tripuri,Chicken Wings,Sides,3.0,179.0,Card,Takeaway,537.0
+FF10582,2025-01-16,Nisha,Model Town,French Fries,Sides,1.0,99.0,UPI,Takeaway,99.0
+FF10583,14/04/2025,Riya,Leela Bhawan,Coke,Beverages,4.0,59.0,UPI,Dine-in,236.0
+FF10584,2025-05-26,Tanvi,Leela Bhawan,Chicken Wings,Sides,3.0,179.0,UPI,Delivery,537.0
+FF10585,2025-05-28,Aman,Tripuri,Lemonade,Beverages,3.0,89.0,UPI,Dine-in,267.0
+FF10586,2025-03-09,Simran,Urban Estate,Veg Burger,Burgers,2.0,129.0,Card,Dine-in,258.0
+FF10587,2025-05-26,Rohan,Tripuri,Cheese Burger,Burgers,3.0,199.0,UPI,Dine-in,597.0
+FF10588,2025-03-05,Nisha,Tripuri,Cheese Burger,Burgers,3.0,199.0,Cash,Dine-in,597.0
+FF10589,2025-02-01,Isha,Tripuri,Cheese Burger,Burgers,2.0,199.0,UPI,Takeaway,398.0
+FF10590,2025-05-26,Pooja,Leela Bhawan,Chicken Wings,Sides,1.0,179.0,UPI,Takeaway,179.0
+FF10591,2025-03-18,Aditya,Leela Bhawan,Cheese Burger,Burgers,4.0,199.0,UPI,Takeaway,796.0
+FF10592,2025-06-09,Nisha,Urban Estate,Veg Burger,Burgers,3.0,129.0,UPI,Delivery,387.0
+FF10593,2025-04-11,Mehak,Tripuri,Chicken Wings,Sides,1.0,179.0,UPI,Dine-in,179.0
+FF10594,2025-01-14,Aditya,Tripuri,Cold Coffee,Beverages,3.0,119.0,Card,Delivery,357.0
+FF10595,2025-06-03,Aditya,Tripuri,Lemonade,Beverages,1.0,89.0,Card,Dine-in,89.0
+FF10596,2025-02-06,Vikas,Urban Estate,Chicken Wings,Sides,3.0,179.0,Card,Delivery,537.0
+FF10597,2025-03-01,Ananya,Tripuri,Coke,Beverages,2.0,59.0,UPI,Takeaway,118.0
+FF10598,2025-02-01,Karan,Model Town,Margherita Pizza,Pizza,3.0,299.0,UPI,Dine-in,897.0
+FF10599,2025-05-23,Tanvi,Leela Bhawan,Cheese Burger,Burgers,1.0,199.0,UPI,Takeaway,199.0
+FF10600,2025-01-01,Yash,Model Town,Classic Burger,Burgers,1.0,149.0,UPI,Takeaway,149.0
+FF10601,2025-03-21,Manish,Leela Bhawan,Coke,Beverages,4.0,59.0,Card,Dine-in,236.0
+FF10602,2025-01-15,Arjun,Leela Bhawan,Chicken Wings,Sides,4.0,179.0,UPI,Dine-in,716.0
+FF10603,2025-05-14,Nisha,Model Town,Cold Coffee,Beverages,4.0,119.0,Card,Dine-in,476.0
+FF10604,2025-03-23,Sahil,Urban Estate,Chicken Wings,Sides,2.0,179.0,UPI,Dine-in,358.0
+FF10605,2025-02-03,Rahul,Urban Estate,Coke,Beverages,1.0,59.0,Cash,Dine-in,59.0
+FF10606,23-03-2025,Rohan,Tripuri,Margherita Pizza,Pizza,,299.0,UPI,Dine-in,
+FF10607,2025-05-24,Ananya,Leela Bhawan,Coke,Beverages,2.0,59.0,UPI,Dine-in,118.0
+FF10608,2025-03-22,Jaspreet,Leela Bhawan,Cold Coffee,Beverages,1.0,119.0,UPI,Dine-in,119.0
+FF10609,2025-05-01,Ananya,Urban Estate,Garlic Bread,Sides,1.0,129.0,UPI,Dine-in,129.0
+FF10610,2025-06-10,Aman,Model Town,Margherita Pizza,Pizza,1.0,299.0,UPI,Dine-in,299.0
+FF10611,2025-06-01,Yash,Urban Estate,Classic Burger,Burgers,2.0,149.0,Card,Dine-in,298.0
+FF10612,2025-03-03,Jaspreet,Urban Estate,Veg Burger,Burgers,4.0,129.0,Cash,Takeaway,516.0
+FF10613,2025-01-23,Jaspreet,Urban Estate,Cold Coffee,Beverages,3.0,119.0,Cash,Delivery,357.0
+FF10614,26/03/2025,Aditya,Model Town,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Dine-in,349.0
+FF10615,2025-06-17,Rohan,Urban Estate,French Fries,Sides,4.0,99.0,UPI,Delivery,396.0
+FF10616,2025-05-29,Sahil,Model Town,Veg Burger,Burgers,1.0,129.0,UPI,Dine-in,129.0
+FF10617,05-04-2025,Simran,Urban Estate,Farmhouse Pizza,Pizza,1.0,349.0,cash,Takeaway,349.0
+FF10618,2025-03-31,Rohan,Urban Estate,Chicken Wings,Sides,4.0,179.0,UPI,Delivery,716.0
+FF10619,2025-03-30,Neha,Leela Bhawan,Veg Burger,Burgers,3.0,129.0,Card,Dine-in,387.0
+FF10620,2025-03-28,Mehak,Tripuri,Classic Burger,Burgers,2.0,149.0,,Delivery,298.0
+FF10621,2025-02-23,Gurpreet,Tripuri,Garlic Bread,Sides,1.0,129.0,Card,Takeaway,129.0
+FF10622,2025-06-01,Sahil,Tripuri,French Fries,Sides,2.0,99.0,Card,Dine-in,198.0
+FF10623,2025-04-18,Yash,Urban Estate,Lemonade,Beverages,1.0,89.0,UPI,Dine-in,89.0
+FF10624,2025-04-06,Pooja,Tripuri,Cold Coffee,Beverages,1.0,119.0,Cash,Takeaway,119.0
+FF10625,2025-01-28,Jaspreet,Tripuri,French Fries,Sides,3.0,99.0,Cash,Takeaway,297.0
+FF10626,2025-02-15,Arjun,Urban Estate,Cold Coffee,Beverages,3.0,119.0,Card,Dine-in,357.0
+FF10627,2025-05-30,Riya,Urban Estate,French Fries,Sides,2.0,99.0,,Delivery,198.0
+FF10628,2025-04-02,Ananya,Model Town,French Fries,Sides,4.0,99.0,Cash,Dine-in,396.0
+FF10629,2025-06-03,Vikas,Model Town,Cheese Burger,Burgers,4.0,199.0,UPI,Delivery,796.0
+FF10630,2025-05-14,Aman,Model Town,Chicken Wings,Sides,2.0,179.0,UPI,Takeaway,358.0
+FF10631,2025-03-03,Ananya,Urban Estate,Veg Burger,Burgers,2.0,129.0,Card,Takeaway,258.0
+FF10632,2025-04-25,Aditya,Leela Bhawan,French Fries,Sides,4.0,99.0,UPI,Dine-in,396.0
+FF10633,2025-06-09,Karan,Leela Bhawan,Classic Burger,Burgers,2.0,149.0,UPI,Dine-in,298.0
+FF10634,2025-06-13,Pooja,Model Town,Cheese Burger,Burgers,3.0,199.0,Card,Delivery,597.0
+FF10635,2025-05-20,Simran,Leela Bhawan,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Delivery,1396.0
+FF10636,2025-05-01,Mehak,Leela Bhawan,Classic Burger,Burgers,2.0,149.0,Card,Delivery,298.0
+FF10637,2025-06-07,Mehak,Urban Estate,Margherita Pizza,Pizza,2.0,299.0,UPI,Dine-in,598.0
+FF10638,2025-01-27,Aditya,Urban Estate,Cheese Burger,Burgers,2.0,199.0,UPI,Delivery,398.0
+FF10639,2025-05-09,Manish,Model Town,Garlic Bread,Sides,2.0,129.0,UPI,Dine-in,258.0
+FF10640,2025-01-30,Simran,Urban Estate,Chicken Wings,Sides,1.0,179.0,Cash,Dine-in,179.0
+FF10641,2025-03-24,Tanvi,Tripuri,Veg Burger,Burgers,3.0,129.0,UPI,Delivery,387.0
+FF10642,2025-03-21,Vikas,Urban Estate,Margherita Pizza,Pizza,3.0,299.0,UPI,Delivery,897.0
+FF10643,2025-04-04,Ananya,Leela Bhawan,Chicken Wings,Sides,3.0,179.0,UPI,Delivery,537.0
+FF10644,2025-03-11,Rohan,Model Town,Chicken Wings,Sides,4.0,179.0,UPI,Takeaway,716.0
+FF10645,2025-04-09,Arjun,Urban Estate,Coke,Beverages,2.0,59.0,Card,Delivery,118.0
+FF10646,2025-03-09,Kavya,Leela Bhawan,Classic Burger,Burgers,2.0,149.0,Cash,Dine-in,298.0
+FF10647,2025-01-15,Kavya,Urban Estate,Cold Coffee,Beverages,4.0,119.0,Card,dine in,476.0
+FF10648,2025-03-12,Kavya,Model Town,Classic Burger,Burgers,4.0,149.0,Card,Delivery,596.0
+FF10649,2025-01-08,Rohan,Urban Estate,Farmhouse Pizza,Pizza,4.0,349.0,Cash,Delivery,1396.0
+FF10650,2025-03-04,Sneha,Urban Estate,Chicken Wings,Sides,1.0,179.0,UPI,Dine-in,179.0
+FF10651,2025-01-12,Vikas,Model Town,Cold Coffee,Beverages,4.0,119.0,UPI,Dine-in,476.0
+FF10652,2025-05-02,Yash,Model Town,Coke,Beverages,3.0,59.0,Cash,Dine-in,177.0
+FF10653,2025-05-06,Rahul,Urban Estate,Chicken Wings,Sides,1.0,179.0,UPI,Delivery,179.0
+FF10654,2025-02-01,Riya,Urban Estate,Cheese Burger,Burgers,4.0,199.0,UPI,Dine-in,796.0
+FF10655,2025-02-18,Pooja,Leela Bhawan,Classic Burger,Burgers,4.0,149.0,UPI,Delivery,596.0
+FF10656,2025-06-20,Ananya,Urban Estate,Chicken Wings,Sides,4.0,179.0,UPI,Delivery,716.0
+FF10657,2025-02-22,Simran,Urban Estate,Classic Burger,Burgers,1.0,149.0,UPI,Takeaway,149.0
+FF10658,2025-05-31,Yash,Urban Estate,Veg Burger,Burgers,1.0,129.0,UPI,Delivery,129.0
+FF10659,2025-03-29,Sahil,Urban Estate,French Fries,Sides,3.0,99.0,UPI,Takeaway,297.0
+FF10660,2025-02-14,Tanvi,Leela Bhawan,Chicken Wings,Sides,4.0,179.0,UPI,Takeaway,716.0
+FF10661,2025-06-02,Rahul,Model Town,Margherita Pizza,Pizza,4.0,299.0,Cash,Dine-in,1196.0
+FF10662,2025-04-25,Aditya,Urban Estate,Cheese Burger,Burgers,3.0,199.0,UPI,Delivery,597.0
+FF10663,2025-05-30,Isha,Leela Bhawan,Coke,Beverages,3.0,59.0,UPI,Takeaway,177.0
+FF10664,2025-03-02,Mehak,Urban Estate,Cold Coffee,Beverages,4.0,119.0,UPI,Delivery,476.0
+FF10665,2025-02-27,Aman,Leela Bhawan,Garlic Bread,Sides,2.0,129.0,UPI,Takeaway,258.0
+FF10666,2025-06-07,Nisha,Urban Estate,Veg Burger,Burgers,1.0,129.0,UPI,Delivery,129.0
+FF10667,2025-01-14,Tanvi,Urban Estate,Cheese Burger,Burgers,2.0,199.0,Card,Takeaway,398.0
+FF10668,2025-03-27,Aman,Leela Bhawan,French Fries,Sides,4.0,99.0,UPI,Takeaway,396.0
+FF10669,2025-03-06,Harsh,Leela Bhawan,Coke,Beverages,4.0,59.0,Card,Dine-in,236.0
+FF10670,2025-06-16,Neha,Tripuri,Chicken Wings,Sides,1.0,179.0,Card,Delivery,179.0
+FF10671,2025-05-17,Vikas,Urban Estate,Garlic Bread,Sides,2.0,129.0,UPI,Takeaway,258.0
+FF10672,2025-03-29,Yash,Leela Bhawan,Coke,Beverages,1.0,59.0,UPI,Takeaway,59.0
+FF10673,2025-01-05,Manish,Model Town,Veg Burger,Burgers,1.0,129.0,UPI,Dine-in,129.0
+FF10674,2025-03-02,Ananya,Tripuri,Chicken Wings,Sides,2.0,179.0,UPI,Dine-in,358.0
+FF10675,2025-03-25,Isha,Model Town,Veg Burger,Burgers,2.0,129.0,UPI,Delivery,258.0
+FF10676,2025-01-21,Rohan,Model Town,Cheese Burger,Burgers,2.0,199.0,Card,Takeaway,398.0
+FF10677,2025-05-14,Ananya,Tripuri,Veg Burger,Burgers,3.0,129.0,UPI,Takeaway,387.0
+FF10678,2025-04-09,Gurpreet,Urban Estate,Veg Burger,Burgers,2.0,129.0,Card,Delivery,258.0
+FF10679,2025-04-04,Mehak,Tripuri,Farmhouse Pizza,Pizza,3.0,349.0,UPI,Dine-in,1047.0
+FF10680,2025-03-28,Gurpreet,Model Town,Cheese Burger,Burgers,1.0,199.0,Card,Dine-in,199.0
+FF10681,2025-03-29,Gurpreet,Urban Estate,French Fries,Sides,1.0,99.0,UPI,Delivery,99.0
+FF10682,2025-06-14,Aman,Model Town,Cheese Burger,Burgers,1.0,199.0,UPI,Dine-in,199.0
+FF10683,2025-05-31,Aditya,Model Town,Coke,Beverages,3.0,59.0,Card,Delivery,177.0
+FF10684,2025-01-15,Gurpreet,Tripuri,Coke,Beverages,4.0,59.0,UPI,Takeaway,236.0
+FF10685,2025-06-25,Pooja,Leela Bhawan,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Dine-in,1396.0
+FF10686,2025-04-20,Tanvi,Tripuri,Margherita Pizza,Pizza,3.0,299.0,Cash,Delivery,897.0
+FF10687,2025-03-10,Aman,Model Town,Lemonade,Beverages,1.0,89.0,Card,Dine-in,89.0
+FF10688,2025-02-02,Harsh,Leela Bhawan,Lemonade,Beverages,4.0,89.0,UPI,Delivery,356.0
+FF10689,2025-04-08,Harsh,Model Town,Cheese Burger,Burgers,2.0,199.0,Card,Takeaway,398.0
+FF10690,2025-06-19,Simran,Urban Estate,Cold Coffee,Beverages,1.0,119.0,UPI,Takeaway,119.0
+FF10691,2025-02-10,Rohan,Urban Estate,Chicken Wings,Sides,3.0,179.0,Card,Takeaway,537.0
+FF10692,2025-05-26,Manish,Leela Bhawan,Cheese Burger,Burgers,2.0,199.0,Cash,Dine-in,398.0
+FF10693,2025-06-13,Rahul,Leela Bhawan,Classic Burger,Burgers,4.0,149.0,UPI,Dine-in,596.0
+FF10694,01/20/2025,Mehak,Urban Estate,Cheese Burger,Burgers,3.0,199.0,UPI,Delivery,597.0
+FF10695,2025-03-16,Sahil,,French Fries,Sides,4.0,99.0,Card,Delivery,396.0
+FF10696,2025-05-12,Karan,Tripuri,Cold Coffee,Beverages,1.0,119.0,Cash,Takeaway,119.0
+FF10697,2025-05-22,Vikas,Tripuri,French Fries,Sides,3.0,99.0,Card,Dine-in,297.0
+FF10698,2025-06-15,Kavya,Model Town,French Fries,Sides,3.0,99.0,UPI,Dine-in,297.0
+FF10699,2025-04-29,Neha,Tripuri,Farmhouse Pizza,Pizza,4.0,349.0,Cash,Delivery,1396.0
+FF10700,2025-02-08,Yash,Leela Bhawan,Lemonade,Beverages,1.0,89.0,Card,Delivery,89.0
+FF10701,2025-02-04,Kavya,Leela Bhawan,Classic Burger,Burgers,1.0,149.0,Card,Delivery,149.0
+FF10702,2025-03-11,Vikas,Leela Bhawan,Garlic Bread,Sides,3.0,129.0,UPI,Takeaway,387.0
+FF10703,2025-04-17,Rahul,Tripuri,Coke,Beverages,4.0,59.0,Cash,Delivery,236.0
+FF10704,2025-02-05,Rahul,Tripuri,Cheese Burger,Burgers,3.0,199.0,UPI,Dine-in,597.0
+FF10705,2025-05-04,Aditya,Leela Bhawan,Margherita Pizza,Pizza,1.0,299.0,UPI,Takeaway,299.0
+FF10706,2025-05-27,Manish,Urban Estate,Classic Burger,Burgers,3.0,149.0,UPI,Takeaway,447.0
+FF10707,2025-04-24,Nisha,Leela Bhawan,Cheese Burger,Burgers,2.0,199.0,UPI,Dine-in,398.0
+FF10708,2025-03-15,Harsh,Urban Estate,Lemonade,Beverages,2.0,89.0,Cash,Delivery,178.0
+FF10709,2025-04-08,Yash,Model Town,Garlic Bread,Sides,2.0,129.0,Card,Delivery,258.0
+FF10710,2025-04-02,Rohan,Urban Estate,Coke,Beverages,2.0,59.0,UPI,Takeaway,118.0
+FF10711,2025-02-28,Mehak,,Garlic Bread,Sides,3.0,129.0,Card,Delivery,387.0
+FF10712,2025-05-27,Yash,Leela Bhawan,Veg Burger,Burgers,3.0,129.0,UPI,Delivery,387.0
+FF10713,2025-04-09,Gurpreet,Model Town,Chicken Wings,Sides,4.0,179.0,Card,Dine-in,716.0
+FF10714,2025-05-01,Karan,Model Town,Margherita Pizza,Pizza,2.0,299.0,Card,Dine-in,598.0
+FF10715,2025-05-23,Mehak,Tripuri,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Delivery,349.0
+FF10716,2025-05-17,Vikas,Urban Estate,Lemonade,Beverages,4.0,89.0,Card,Delivery,356.0
+FF10717,2025-05-19,Gurpreet,Tripuri,French Fries,Sides,3.0,99.0,Card,Delivery,297.0
+FF10718,2025-01-14,Ananya,Urban Estate,Chicken Wings,Sides,4.0,179.0,UPI,Delivery,716.0
+FF10719,2025-04-07,Sneha,Leela Bhawan,Veg Burger,Burgers,1.0,129.0,UPI,Takeaway,129.0
+FF10720,2025-03-15,Yash,Urban Estate,French Fries,Sides,1.0,99.0,UPI,Delivery,99.0
+FF10721,2025-05-16,Ananya,Urban Estate,Farmhouse Pizza,Pizza,4.0,349.0,Cash,Delivery,1396.0
+FF10722,2025-06-17,Nisha,Tripuri,Veg Burger,Burgers,2.0,129.0,UPI,Takeaway,258.0
+FF10723,2025-05-30,Riya,Urban Estate,Classic Burger,Burgers,4.0,149.0,Cash,Delivery,596.0
+FF10724,2025-02-05,Yash,Tripuri,Margherita Pizza,Pizza,4.0,299.0,Card,Dine-in,1196.0
+FF10725,2025-03-01,Simran,Tripuri,Cheese Burger,Burgers,3.0,199.0,UPI,Takeaway,597.0
+FF10726,2025-05-25,Simran,Model Town,Cheese Burger,Burgers,3.0,199.0,UPI,Delivery,597.0
+FF10727,2025-04-29,Yash,Urban Estate,Margherita Pizza,Pizza,1.0,299.0,Cash,Takeaway,299.0
+FF10728,2025-04-20,Rohan,Leela Bhawan,Garlic Bread,Sides,2.0,129.0,Cash,Delivery,258.0
+FF10729,2025-05-08,Riya,Leela Bhawan,French Fries,Sides,1.0,99.0,UPI,Delivery,99.0
+FF10730,2025-06-07,Isha,Leela Bhawan,Coke,Beverages,4.0,59.0,UPI,Dine-in,236.0
+FF10731,2025-01-05,Rohan,Leela Bhawan,Chicken Wings,Sides,1.0,179.0,Card,Dine-in,179.0
+FF10732,2025-01-23,Gurpreet,Urban Estate,Lemonade,Beverages,3.0,89.0,UPI,Takeaway,267.0
+FF10733,2025-02-16,Sahil,Tripuri,Veg Burger,Burgers,2.0,129.0,UPI,Dine-in,258.0
+FF10734,2025-01-08,Jaspreet,Tripuri,Garlic Bread,Sides,1.0,129.0,UPI,Delivery,129.0
+FF10735,2025-02-01,Neha,Leela Bhawan,Lemonade,Beverages,-1.0,89.0,UPI,Delivery,-89.0
+FF10736,2025-06-23,Harsh,Tripuri,Margherita Pizza,Pizza,3.0,299.0,UPI,Dine-in,897.0
+FF10737,2025-01-30,Rohan,Urban Estate,Margherita Pizza,Pizza,4.0,299.0,Card,Delivery,1196.0
+FF10738,2025-03-05,Harsh,Model Town,Chicken Wings,Sides,3.0,179.0,Card,Delivery,537.0
+FF10739,2025-01-07,Yash,Model Town,Margherita Pizza,Pizza,1.0,299.0,UPI,Dine-in,299.0
+FF10740,2025-04-16,Vikas,Leela Bhawan,Farmhouse Pizza,Pizza,2.0,349.0,UPI,Delivery,698.0
+FF10741,2025-05-12,Isha,Leela Bhawan,Garlic Bread,Sides,4.0,129.0,UPI,Dine-in,516.0
+FF10742,2025-04-17,Kavya,Tripuri,Farmhouse Pizza,Pizza,2.0,349.0,UPI,Delivery,698.0
+FF10743,2025-01-07,Neha,Leela Bhawan,Veg Burger,Burgers,2.0,129.0,Cash,Dine-in,258.0
+FF10744,2025-01-07,Harsh,Urban Estate,Chicken Wings,Sides,2.0,179.0,UPI,Dine-in,358.0
+FF10745,2025-04-07,Isha,Leela Bhawan,Farmhouse Pizza,Pizza,2.0,349.0,Card,Delivery,698.0
+FF10746,2025-03-24,Isha,Urban Estate,Garlic Bread,Sides,2.0,129.0,UPI,Dine-in,258.0
+FF10747,2025-05-15,Rahul,Urban Estate,Chicken Wings,Sides,4.0,179.0,UPI,Dine-in,716.0
+FF10748,2025-03-16,Sahil,Tripuri,Lemonade,Beverages,4.0,89.0,Card,Dine-in,356.0
+FF10749,2025-01-15,Karan,Tripuri,Lemonade,Beverages,4.0,89.0,Cash,Dine-in,356.0
+FF10750,2025-06-08,Rahul,Model Town,Coke,Beverages,4.0,59.0,Card,Delivery,236.0
+FF10751,2025-04-13,Rahul,Model Town,Margherita Pizza,Pizza,3.0,299.0,UPI,Dine-in,897.0
+FF10752,2025-06-29,Vikas,Tripuri,Garlic Bread,Sides,3.0,129.0,Cash,Delivery,387.0
+FF10753,2025-06-29,Kavya,Tripuri,Lemonade,Beverages,3.0,89.0,Card,Dine-in,267.0
+FF10754,2025-06-05,Pooja,Leela Bhawan,French Fries,Sides,3.0,99.0,UPI,Dine-in,297.0
+FF10755,2025-05-15,Sahil,Urban Estate,French Fries,Sides,4.0,99.0,UPI,Takeaway,396.0
+FF10756,2025-02-02,Aditya,Model Town,Classic Burger,Burgers,2.0,149.0,UPI,Takeaway,298.0
+FF10757,2025-05-17,Neha,Model Town,Classic Burger,Burgers,4.0,149.0,Cash,Delivery,596.0
+FF10758,2025-03-08,Kavya,Urban Estate,Garlic Bread,Sides,3.0,129.0,Cash,Dine-in,387.0
+FF10759,2025-04-14,Simran,Urban Estate,Garlic Bread,Sides,2.0,129.0,Card,Dine-in,258.0
+FF10760,2025-02-13,Sneha,Urban Estate,Lemonade,Beverages,1.0,89.0,UPI,Delivery,89.0
+FF10761,2025-02-16,Neha,Model Town,Veg Burger,Burgers,1.0,129.0,Card,Dine-in,129.0
+FF10762,2025-05-15,Vikas,Tripuri,Coke,Beverages,2.0,59.0,Card,Dine-in,118.0
+FF10763,2025-05-04,Mehak,Tripuri,Farmhouse Pizza,Pizza,3.0,349.0,UPI,Dine-in,1047.0
+FF10764,2025-01-11,Neha,Leela Bhawan,Veg Burger,Burgers,4.0,129.0,UPI,Takeaway,516.0
+FF10765,2025-02-03,Harsh,Urban Estate,Margherita Pizza,Pizza,1.0,299.0,UPI,Dine-in,299.0
+FF10766,2025-03-17,Nisha,Tripuri,Cold Coffee,Beverages,4.0,119.0,UPI,Delivery,476.0
+FF10767,2025-01-07,Rahul,Tripuri,Coke,Beverages,4.0,59.0,Cash,Dine-in,236.0
+FF10768,2025-04-04,Simran,Tripuri,Chicken Wings,Sides,3.0,179.0,Cash,Delivery,537.0
+FF10769,2025-04-13,Neha,Model Town,Coke,Beverages,2.0,59.0,UPI,Dine-in,118.0
+FF10770,2025-05-09,Manish,Urban Estate,Veg Burger,Burgers,4.0,129.0,UPI,Takeaway,516.0
+FF10771,2025-04-01,Manish,Urban Estate,French Fries,Sides,3.0,99.0,Card,Delivery,297.0
+FF10772,2025-03-05,Isha,Urban Estate,Cold Coffee,Beverages,3.0,119.0,UPI,Takeaway,357.0
+FF10773,2025-04-28,Ananya,Urban Estate,French Fries,Sides,4.0,99.0,Card,Dine-in,396.0
+FF10774,2025-03-17,Aditya,Urban Estate,Chicken Wings,Sides,1.0,179.0,UPI,Dine-in,179.0
+FF10775,2025-06-13,Arjun,Model Town,Cold Coffee,Beverages,2.0,119.0,Cash,Delivery,238.0
+FF10776,2025-06-12,Kavya,Tripuri,Farmhouse Pizza,Pizza,4.0,349.0,Card,Delivery,1396.0
+FF10777,2025-02-02,Aman,Tripuri,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Delivery,349.0
+FF10778,2025-05-22,Manish,Leela Bhawan,Lemonade,Beverages,4.0,89.0,Cash,Takeaway,356.0
+FF10779,2025-01-06,Yash,Leela Bhawan,Chicken Wings,Sides,2.0,179.0,UPI,Delivery,358.0
+FF10780,2025-04-26,Ananya,Leela Bhawan,Coke,Beverages,1.0,59.0,UPI,Delivery,59.0
+FF10781,05/06/2025,Mehak,Urban Estate,Garlic Bread,Sides,1.0,129.0,UPI,Delivery,129.0
+FF10782,2025-02-18,Aman,Leela Bhawan,Classic Burger,Burgers,2.0,149.0,card,Delivery,298.0
+FF10783,2025-06-03,Pooja,Tripuri,Margherita Pizza,Pizza,2.0,299.0,Cash,Takeaway,598.0
+FF10784,2025-05-30,Nisha,Leela Bhawan,Cheese Burger,Burgers,1.0,199.0,UPI,Dine-in,199.0
+FF10785,2025-01-17,Tanvi,Model town,Farmhouse Pizza,Pizza,1.0,349.0,Cash,Dine-in,349.0
+FF10786,2025-05-23,Sneha,Model Town,Cheese Burger,Burgers,3.0,199.0,Cash,Delivery,597.0
+FF10787,2025-02-15,Aditya,Tripuri,Coke,Beverages,3.0,59.0,UPI,Takeaway,177.0
+FF10788,2025-04-23,Mehak,Leela Bhawan,Coke,Beverages,3.0,59.0,UPI,Takeaway,177.0
+FF10789,2025-01-21,Simran,Leela Bhawan,Garlic Bread,Sides,1.0,129.0,UPI,Delivery,129.0
+FF10790,2025-06-22,Isha,Leela Bhawan,French Fries,Sides,2.0,99.0,Cash,Delivery,198.0
+FF10791,2025-05-17,Arjun,Tripuri,Margherita Pizza,Pizza,4.0,299.0,UPI,Delivery,1196.0
+FF10792,2025-02-08,Nisha,Model Town,French Fries,Sides,2.0,99.0,UPI,Dine-in,198.0
+FF10793,2025-06-09,Mehak,Model Town,Veg Burger,Burgers,3.0,129.0,Card,Dine-in,387.0
+FF10794,2025-05-09,Aman,Model Town,Garlic Bread,Sides,4.0,129.0,UPI,Delivery,516.0
+FF10795,2025-04-22,Tanvi,Model Town,Chicken Wings,Sides,1.0,179.0,UPI,Takeaway,179.0
+FF10796,2025-05-28,Sneha,Model Town,Classic Burger,Burgers,3.0,149.0,UPI,Delivery,447.0
+FF10797,2025-02-04,Aditya,Urban Estate,Margherita Pizza,Pizza,1.0,299.0,Cash,Delivery,299.0
+FF10798,2025-02-26,Rahul,Tripuri,French Fries,Sides,3.0,99.0,Cash,Takeaway,297.0
+FF10799,2025-06-26,Sahil,Model Town,Chicken Wings,Sides,1.0,179.0,UPI,Delivery,179.0
+FF10800,2025-04-02,Riya,Tripuri,Margherita Pizza,Pizza,3.0,299.0,UPI,Takeaway,897.0
+FF10801,2025-03-25,Gurpreet,Urban Estate,Coke,Beverages,2.0,59.0,UPI,Delivery,118.0
+FF10802,2025-04-12,Vikas,Model Town,Cheese Burger,Burgers,2.0,199.0,UPI,Delivery,398.0
+FF10803,2025-05-10,Karan,Leela Bhawan,Veg Burger,Burgers,4.0,129.0,UPI,Dine-in,516.0
+FF10804,2025-06-02,Sahil,Urban Estate,Cheese Burger,Burgers,1.0,199.0,Card,Dine-in,199.0
+FF10805,2025-06-10,Pooja,Urban Estate,Cheese Burger,Burgers,4.0,199.0,UPI,Delivery,796.0
+FF10806,2025-05-27,Ananya,Leela Bhawan,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Takeaway,1396.0
+FF10807,2025-02-14,Isha,Urban Estate,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Takeaway,349.0
+FF10808,2025-06-08,Harsh,Model Town,Lemonade,Beverages,2.0,89.0,UPI,Delivery,178.0
+FF10809,2025-04-28,Ananya,Urban Estate,Cold Coffee,Beverages,1.0,119.0,UPI,Dine-in,119.0
+FF10810,2025-03-31,Pooja,Urban Estate,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Delivery,1396.0
+FF10811,2025-06-17,Vikas,Urban Estate,Cold Coffee,Beverages,1.0,119.0,UPI,Takeaway,119.0
+FF10812,2025-05-27,Ananya,Model Town,Garlic Bread,Sides,2.0,129.0,Card,Dine-in,258.0
+FF10813,2025-03-13,Arjun,Leela Bhawan,Chicken Wings,Sides,1.0,179.0,Card,Dine-in,179.0
+FF10814,2025-01-25,Isha,Tripuri,Farmhouse Pizza,Pizza,3.0,349.0,UPI,Delivery,1047.0
+FF10815,2025-01-08,Riya,Urban Estate,Coke,Beverages,4.0,59.0,UPI,Delivery,236.0
+FF10816,2025-03-30,Yash,Urban Estate,Lemonade,Beverages,3.0,89.0,Cash,Takeaway,267.0
+FF10817,2025-06-07,Tanvi,Model Town,Classic Burger,Burgers,1.0,149.0,UPI,Delivery,149.0
+FF10818,2025-02-18,Vikas,Model Town,Margherita Pizza,Pizza,1.0,299.0,Card,Delivery,299.0
+FF10819,2025-05-12,Aditya,Model Town,Veg Burger,Burgers,4.0,129.0,Card,Delivery,516.0
+FF10820,2025-05-25,Jaspreet,Leela Bhawan,Margherita Pizza,Pizza,3.0,299.0,Card,Delivery,897.0
+FF10821,2025-03-13,Gurpreet,Tripuri,Veg Burger,Burgers,4.0,129.0,Card,Takeaway,516.0
+FF10822,2025-03-22,Neha,Model Town,French Fries,Sides,3.0,99.0,UPI,Dine-in,297.0
+FF10823,2025-05-16,Simran,Leela Bhawan,Farmhouse Pizza,Pizza,3.0,349.0,UPI,Delivery,1047.0
+FF10824,2025-06-28,Rohan,Leela Bhawan,Cheese Burger,Burgers,3.0,199.0,UPI,Delivery,597.0
+FF10825,2025-02-10,Gurpreet,Urban Estate,Veg Burger,Burgers,3.0,129.0,UPI,Delivery,387.0
+FF10826,2025-03-02,Riya,,Coke,Beverages,1.0,59.0,upi,Takeaway,59.0
+FF10827,2025-04-09,Mehak,Tripuri,Coke,Beverages,1.0,59.0,UPI,Delivery,59.0
+FF10828,2025-01-10,Isha,Model Town,Cold Coffee,Beverages,2.0,119.0,UPI,Takeaway,238.0
+FF10829,2025-04-26,Harsh,Model Town,Margherita Pizza,Pizza,4.0,299.0,card,Dine-in,1196.0
+FF10830,2025-06-15,Tanvi,Tripuri,Coke,Beverages,4.0,59.0,Card,Delivery,236.0
+FF10831,2025-05-29,Rahul,Tripuri,French Fries,Sides,4.0,99.0,UPI,Takeaway,396.0
+FF10832,2025-01-25,Ananya,Tripuri,Garlic Bread,Sides,4.0,129.0,Cash,Takeaway,516.0
+FF10833,2025-03-31,Sneha,Urban Estate,Garlic Bread,Sides,1.0,129.0,UPI,Dine-in,129.0
+FF10834,2025-05-08,Gurpreet,Leela Bhawan,Margherita Pizza,Pizza,1.0,299.0,Cash,Delivery,299.0
+FF10835,2025-03-30,,Leela Bhawan,Chicken Wings,Sides,4.0,179.0,UPI ,Takeaway,716.0
+FF10836,2025-05-22,Mehak,Tripuri,Cheese Burger,Burgers,3.0,199.0,UPI,Takeaway,597.0
+FF10837,2025-02-09,Jaspreet,Tripuri,Margherita Pizza,Pizza,1.0,299.0,Card,Delivery,299.0
+FF10838,2025-05-04,Rohan,Leela Bhawan,Classic Burger,Burgers,0.0,149.0,UPI,Takeaway,0.0
+FF10839,2025-01-25,Ananya,Leela Bhawan,Veg Burger,Burgers,4.0,129.0,upi,Dine-in,516.0
+FF10840,2025-01-08,Pooja,Leela Bhawan,Lemonade,Beverages,4.0,89.0,Card,Delivery,356.0
+FF10841,2025-06-28,Rahul,Urban Estate,Cheese Burger,Burgers,2.0,199.0,Cash,Takeaway,398.0
+FF10842,2025-05-19,Nisha,Urban Estate,Margherita Pizza,Pizza,3.0,299.0,UPI,Dine-in,897.0
+FF10843,2025-04-04,Gurpreet,Model Town,Cold Coffee,Beverages,3.0,119.0,UPI,Takeaway,357.0
+FF10844,2025-04-22,Rohan,Urban Estate,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Dine-in,1396.0
+FF10845,2025-04-13,Manish,Urban Estate,Cheese Burger,Burgers,4.0,199.0,Card,Delivery,796.0
+FF10846,2025-02-15,Gurpreet,Urban Estate,Cold Coffee,Beverages,1.0,119.0,UPI,Dine-in,119.0
+FF10847,2025-03-18,Gurpreet,Model Town,Coke,Beverages,1.0,59.0,Card,Delivery,59.0
+FF10848,2025-02-10,Mehak,Urban Estate,Margherita Pizza,Pizza,4.0,299.0,Cash,Delivery,1196.0
+FF10849,2025-05-01,Tanvi,Model Town,Coke,Beverages,3.0,59.0,UPI,Delivery,177.0
+FF10850,2025-03-31,Mehak,Leela Bhawan,French Fries,Sides,2.0,99.0,UPI,Dine-in,198.0
+FF10851,2025-01-23,Kavya,Urban Estate,Chicken Wings,Sides,3.0,179.0,UPI,Dine-in,537.0
+FF10852,2025-05-04,Ananya,Tripuri,Coke,Beverages,3.0,59.0,Cash,Dine-in,177.0
+FF10853,2025-01-16,Riya,Tripuri,Cheese Burger,Burgers,2.0,199.0,UPI,Takeaway,398.0
+FF10854,2025-04-22,Yash,Model Town,French Fries,Sides,2.0,99.0,Card,Dine-in,198.0
+FF10855,2025-06-12,Karan,Leela Bhawan,Garlic Bread,Sides,3.0,129.0,Card,Delivery,387.0
+FF10856,2025-03-13,Yash,Urban Estate,Garlic Bread,Sides,4.0,129.0,UPI,Delivery,516.0
+FF10857,2025-04-09,Aman,Urban Estate,Garlic Bread,Sides,1.0,129.0,Card,Dine-in,129.0
+FF10858,2025-04-08,Aditya,Leela Bhawan,Veg Burger,Burgers,2.0,129.0,Card,Takeaway,258.0
+FF10859,2025-03-09,Karan,Tripuri,Veg Burger,Burgers,3.0,129.0,UPI,Delivery,387.0
+FF10860,2025-01-09,Kavya,Leela Bhawan,Margherita Pizza,Pizza,2.0,299.0,Cash,Delivery,598.0
+FF10861,2025-01-23,Rohan,Urban Estate,Coke,Beverages,4.0,59.0,UPI,Delivery,236.0
+FF10862,2025-03-31,Karan,Model Town,Margherita Pizza,Pizza,2.0,299.0,Cash,Dine-in,598.0
+FF10863,2025-02-28,Pooja,Tripuri,Margherita Pizza,Pizza,4.0,299.0,Card,Dine-in,1196.0
+FF10864,2025-04-04,Gurpreet,Urban Estate,Lemonade,Beverages,1.0,89.0,UPI,Takeaway,89.0
+FF10865,2025-01-28,Yash,Tripuri ,Veg Burger,Burgers,1.0,129.0,Card,Takeaway,129.0
+FF10866,2025-03-07,Kavya,Urban Estate,Classic Burger,Burgers,3.0,149.0,UPI,Delivery,447.0
+FF10867,2025-06-15,Riya,Leela Bhawan,Garlic Bread,Sides,1.0,129.0,Card,Delivery,129.0
+FF10868,2025-02-22,Kavya,Urban Estate,Garlic Bread,Sides,3.0,129.0,Card,Delivery,387.0
+FF10869,2025-03-01,Manish,Urban Estate,Coke,Beverages,2.0,59.0,UPI,Delivery,118.0
+FF10870,2025-06-26,Mehak,Urban Estate,Veg Burger,Burgers,3.0,129.0,UPI,Takeaway,387.0
+FF10871,2025-03-19,Isha,Urban Estate,Chicken Wings,Sides,1.0,179.0,UPI,Delivery,179.0
+FF10872,2025-04-22,Arjun,Leela Bhawan,Lemonade,Beverages,4.0,89.0,Cash,Takeaway,356.0
+FF10873,2025-02-05,Gurpreet,Model Town,Lemonade,Beverages,2.0,89.0,UPI,Dine-in,178.0
+FF10874,2025-04-02,Aman,Model Town,Lemonade,Beverages,4.0,89.0,Card,Dine-in,356.0
+FF10875,2025-04-09,Mehak,Tripuri,Lemonade,Beverages,3.0,89.0,UPI,Dine-in,267.0
+FF10876,2025-05-23,Arjun,Model Town,Classic Burger,Burgers,4.0,149.0,Cash,Delivery,596.0
+FF10877,2025-04-28,Yash,Tripuri,Cheese Burger,Burgers,1.0,199.0,Cash,Takeaway,199.0
+FF10878,22-03-2025,Mehak,Tripuri,Cold Coffee,Beverages,2.0,119.0,Cash,Takeaway,238.0
+FF10879,2025-02-02,Pooja,Leela Bhawan,Cold Coffee,Beverages,4.0,119.0,UPI,Delivery,476.0
+FF10880,2025-05-21,Riya,Urban Estate,Garlic Bread,Sides,1.0,129.0,Cash,Delivery,129.0
+FF10881,2025-03-25,Aditya,Urban Estate,Garlic Bread,Sides,3.0,129.0,UPI,Dine-in,387.0
+FF10882,2025-05-14,Isha,Leela Bhawan,Margherita Pizza,Pizza,3.0,299.0,Cash,Delivery,897.0
+FF10883,2025-04-07,Isha,Model Town,Lemonade,Beverages,2.0,89.0,cash,Takeaway,178.0
+FF10884,2025-04-22,Rahul,Model Town,Cheese Burger,Burgers,3.0,199.0,Cash,Delivery,597.0
+FF10885,2025-03-21,Mehak,Model Town,French Fries,Sides,3.0,99.0,Card,Delivery,297.0
+FF10886,2025-01-11,Rahul,Leela Bhawan,Classic Burger,Burgers,3.0,149.0,UPI,TAKEAWAY,447.0
+FF10887,2025-04-19,Kavya,Urban Estate,French Fries,Sides,2.0,99.0,Card,Dine-in,198.0
+FF10888,2025-03-30,Aman,Model Town,Veg Burger,Burgers,4.0,129.0,Card,Delivery,516.0
+FF10889,2025-06-26,Vikas,Model Town,French Fries,Sides,1.0,99.0,UPI,Dine-in,99.0
+FF10890,2025-05-15,Kavya,Model Town,Lemonade,Beverages,3.0,89.0,Cash,Takeaway,267.0
+FF10891,2025-03-14,Aditya,Model Town,French Fries,Sides,4.0,99.0,Cash,Takeaway,396.0
+FF10892,2025-02-14,Sahil,Model Town,Chicken Wings,Sides,3.0,179.0,UPI,Dine-in,537.0
+FF10893,2025-01-13,Nisha,Urban Estate,Garlic Bread,Sides,4.0,129.0,UPI,Dine-in,516.0
+FF10894,2025-02-27,Neha,Leela Bhawan,Coke,Beverages,2.0,59.0,Cash,Takeaway,118.0
+FF10895,2025-04-07,Neha,Urban Estate,Coke,Beverages,2.0,59.0,UPI,Dine-in,118.0
+FF10896,2025-05-03,Harsh,Urban Estate,Garlic Bread,Sides,1.0,129.0,UPI,Takeaway,129.0
+FF10897,2025-01-28,Yash,Urban Estate,Classic Burger,Burgers,2.0,149.0,UPI,Dine-in,298.0
+FF10898,2025-01-10,Arjun,Tripuri,Classic Burger,Burgers,4.0,149.0,UPI,Dine-in,596.0
+FF10899,2025-06-29,Arjun,Leela Bhawan,Chicken Wings,Sides,3.0,179.0,Card,Takeaway,537.0
+FF10900,2025-02-12,Vikas,Tripuri,Classic Burger,Burgers,3.0,149.0,Cash,Takeaway,447.0
+FF10901,2025-02-12,Gurpreet,Urban Estate,Cold Coffee,Beverages,4.0,119.0,Cash,Dine-in,476.0
+FF10902,2025-03-24,Vikas,Urban Estate,Veg Burger,Burgers,4.0,129.0,Card,Takeaway,516.0
+FF10903,2025-05-23,Yash,Tripuri,Margherita Pizza,Pizza,3.0,299.0,UPI,Takeaway,897.0
+FF10904,2025-02-15,Aditya,Urban estate ,Classic Burger,Burgers,1.0,149.0,Card,Dine-in,149.0
+FF10905,2025-06-09,Simran,Urban Estate,Cheese Burger,Burgers,1.0,199.0,Card,Dine-in,199.0
+FF10906,2025-06-20,Gurpreet,Leela Bhawan,Cold Coffee,Beverages,4.0,119.0,Card,Delivery,476.0
+FF10907,2025-01-02,Rahul,Tripuri,French Fries,Sides,2.0,99.0,Cash,Delivery,198.0
+FF10908,2025-03-02,Manish,Urban Estate,Veg Burger,Burgers,3.0,129.0,UPI,Dine-in,387.0
+FF10909,2025-02-17,Sahil,Tripuri,Lemonade,Beverages,2.0,89.0,Cash,Delivery,178.0
+FF10910,2025-03-12,Rohan,Leela Bhawan,Classic Burger,Burgers,4.0,149.0,Card,Delivery,596.0
+FF10911,2025-04-26,Gurpreet,Leela Bhawan,Coke,Beverages,2.0,59.0,UPI,Dine-in,118.0
+FF10912,2025-05-07,Neha,Urban Estate,Farmhouse Pizza,Pizza,3.0,349.0,UPI,Takeaway,1047.0
+FF10913,2025-03-12,Mehak,Urban Estate,Cold Coffee,Beverages,3.0,119.0,UPI,Dine-in,357.0
+FF10914,2025-01-04,Rahul,Tripuri,French Fries,Sides,4.0,99.0,UPI,Takeaway,396.0
+FF10915,2025-03-17,Nisha,Urban Estate,Cold Coffee,Beverages,1.0,119.0,Card,Dine-in,119.0
+FF10916,2025-05-02,Tanvi,Urban Estate,Cheese Burger,Burgers,,199.0,UPI,Takeaway,
+FF10917,29/05/2025,Yash,Urban Estate,Veg Burger,Burgers,1.0,129.0,Card,Takeaway,129.0
+FF10918,2025-01-21,Karan,Urban Estate,Chicken Wings,Sides,3.0,179.0,Card,Dine-in,537.0
+FF10919,2025-01-30,Pooja,Urban Estate,Cold Coffee,Beverages,4.0,119.0,UPI,Dine-in,476.0
+FF10920,2025-05-04,Harsh,Leela Bhawan,Chicken Wings,Sides,3.0,179.0,Cash,Delivery,537.0
+FF10921,2025-04-15,Yash,Leela Bhawan,French Fries,Sides,4.0,99.0,Card,Delivery,396.0
+FF10922,2025-06-18,Yash,Urban Estate,Lemonade,Beverages,2.0,89.0,Card,Takeaway,178.0
+FF10923,2025-04-10,Sneha,Leela Bhawan,Chicken Wings,Sides,1.0,179.0,UPI,Takeaway,179.0
+FF10924,2025-02-07,Mehak,Model Town,Garlic Bread,Sides,4.0,129.0,UPI,Takeaway,516.0
+FF10925,2025-02-21,Riya,Model Town,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Delivery,349.0
+FF10926,2025-03-16,Mehak,Urban Estate,Margherita Pizza,Pizza,3.0,299.0,UPI,Dine-in,897.0
+FF10927,2025-02-26,Kavya,Tripuri,Chicken Wings,Sides,4.0,179.0,Cash,Dine-in,716.0
+FF10928,2025-05-05,Manish,Urban Estate,French Fries,Sides,4.0,99.0,Card,Delivery,396.0
+FF10929,2025-04-15,Aditya,Leela Bhawan,Lemonade,Beverages,2.0,89.0,UPI,Dine-in,178.0
+FF10930,2025-04-23,Aman,Model Town,Lemonade,Beverages,3.0,89.0,UPI,Delivery,267.0
+FF10931,2025-03-10,Aditya,Leela Bhawan,Garlic Bread,Sides,1.0,129.0,Cash,Dine-in,129.0
+FF10932,2025-02-23,Sahil,Urban Estate,Classic Burger,Burgers,1.0,149.0,Card,Dine-in,149.0
+FF10933,2025-05-28,Arjun,Leela Bhawan,French Fries,Sides,4.0,99.0,Cash,Dine-in,396.0
+FF10934,2025-02-05,Riya,Urban Estate,Coke,Beverages,1.0,59.0,UPI,Delivery,59.0
+FF10935,2025-04-18,Vikas,Urban Estate,French Fries,Sides,1.0,99.0,UPI,Dine-in,99.0
+FF10936,2025-03-20,Vikas,Urban Estate,Veg Burger,Burgers,2.0,129.0,Card,Delivery,258.0
+FF10937,2025-04-28,Neha,Leela Bhawan,Coke,Beverages,3.0,59.0,Card,Delivery,177.0
+FF10938,2025-01-18,Nisha,Urban Estate,Classic Burger,Burgers,3.0,149.0,UPI,Takeaway,447.0
+FF10939,2025-03-15,Sneha,Leela Bhawan,Cold Coffee,Beverages,4.0,119.0,Cash,Delivery,476.0
+FF10940,2025-02-04,Gurpreet,Model Town,Garlic Bread,Sides,3.0,129.0,UPI,Dine-in,387.0
+FF10941,2025-06-07,Karan,Leela Bhawan,Margherita Pizza,Pizza,3.0,,Cash,Dine-in,
+FF10942,2025-01-26,Tanvi,Leela Bhawan,Chicken Wings,Sides,2.0,179.0,Cash,Delivery,358.0
+FF10943,2025-04-08,Riya,Urban Estate,Farmhouse Pizza,Pizza,3.0,349.0,UPI,Dine-in,1047.0
+FF10944,2025-06-16,Jaspreet,Leela Bhawan,Garlic Bread,Sides,1.0,129.0,Card,Dine-in,129.0
+FF10945,2025-03-29,Yash,,French Fries,Sides,2.0,99.0,Card,Takeaway,198.0
+FF10946,2025-02-18,Mehak,Tripuri,Garlic Bread,Sides,3.0,129.0,UPI,Dine-in,387.0
+FF10947,2025-04-04,Sneha,Urban Estate,Margherita Pizza,Pizza,1.0,299.0,UPI,Takeaway,299.0
+FF10948,2025-04-02,Aman,Model Town,French Fries,Sides,3.0,99.0,UPI,Dine-in,297.0
+FF10949,2025-05-29,Simran,Leela Bhawan,Cheese Burger,Burgers,1.0,199.0,UPI,Takeaway,199.0
+FF10950,2025-04-06,Sneha,Urban Estate,French Fries,Sides,3.0,99.0,Cash,Delivery,297.0
+FF10951,2025-06-13,Rahul,Urban Estate,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Takeaway,1396.0
+FF10952,2025-03-13,Tanvi,Leela Bhawan,Lemonade,Beverages,2.0,89.0,Cash,Delivery,178.0
+FF10953,2025-06-18,Ananya,Urban Estate,Cold Coffee,Beverages,1.0,119.0,Card,Dine-in,119.0
+FF10954,2025-01-27,Aditya,Tripuri,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Delivery,1396.0
+FF10955,2025-01-08,Sahil,Leela Bhawan,Margherita Pizza,Pizza,1.0,299.0,Card,Dine-in,299.0
+FF10956,2025-02-10,Riya,Model Town,Cheese Burger,Burgers,3.0,199.0,UPI,Takeaway,597.0
+FF10957,2025-04-05,Yash,Leela Bhawan,Coke,Beverages,2.0,59.0,Cash,Delivery,118.0
+FF10958,2025-06-24,Nisha,Model Town,French Fries,Sides,4.0,99.0,UPI,Delivery,396.0
+FF10959,2025-01-14,Karan,Urban Estate,Margherita Pizza,Pizza,4.0,299.0,Cash,Takeaway,1196.0
+FF10960,2025-03-01,Pooja,Tripuri,Coke,Beverages,4.0,59.0,UPI,Dine-in,236.0
+FF10961,2025-06-07,Sahil,Leela Bhawan,Garlic Bread,Sides,3.0,129.0,Card,Delivery,387.0
+FF10962,2025-02-28,Rahul,Urban Estate,Garlic Bread,Sides,3.0,129.0,Cash,Delivery,387.0
+FF10963,2025-02-18,Harsh,Urban Estate,Classic Burger,Burgers,1.0,149.0,UPI,Dine-in,149.0
+FF10964,2025-03-02,Riya,Model Town,French Fries,Sides,4.0,-99.0,UPI,Delivery,-396.0
+FF10965,2025-02-04,Manish,Tripuri,Garlic Bread,Sides,1.0,129.0,Cash,Delivery,129.0
+FF10966,2025-01-10,Tanvi,Model Town,Coke,Beverages,3.0,59.0,Card,Dine-in,177.0
+FF10967,2025-02-03,Nisha,Leela Bhawan,Coke,Beverages,4.0,59.0,UPI,Delivery,236.0
+FF10968,2025-03-22,Ananya,Leela Bhawan,Cheese Burger,Burgers,1.0,199.0,UPI,Delivery,199.0
+FF10969,2025-03-19,Sahil,Leela Bhawan,Margherita Pizza,Pizza,1.0,299.0,UPI,Delivery,299.0
+FF10970,2025-03-20,Aman,Leela bhawan,Veg Burger,Burgers,1.0,129.0,Card,Delivery,129.0
+FF10971,2025-04-05,Ananya,Model Town,Coke,Beverages,2.0,59.0,Cash,Delivery,118.0
+FF10972,2025-05-24,Riya,Leela Bhawan,Margherita Pizza,Pizza,4.0,299.0,UPI,Dine-in,1196.0
+FF10973,2025-04-18,Vikas,Model Town,Garlic Bread,Sides,4.0,129.0,UPI,Takeaway,516.0
+FF10974,2025-01-20,Isha,Leela Bhawan,Chicken Wings,Sides,1.0,179.0,Cash,Delivery,179.0
+FF10975,2025-01-01,Rohan,Leela Bhawan,Veg Burger,Burgers,2.0,129.0,Cash ,Delivery,258.0
+FF10976,2025-03-11,Ananya,Model Town,Classic Burger,Burgers,4.0,0.0,Card,Dine-in,0.0
+FF10977,2025-01-14,Rohan,Urban Estate,French Fries,Sides,1.0,99.0,UPI,Dine-in,99.0
+FF10978,2025-01-28,Sahil,Leela Bhawan,Cheese Burger,Burgers,4.0,199.0,UPI,Delivery,796.0
+FF10979,2025-04-11,Jaspreet,Urban Estate,Chicken Wings,Sides,4.0,179.0,UPI,Takeaway,716.0
+FF10980,2025-05-25,Arjun,Urban Estate,Chicken Wings,Sides,1.0,179.0,UPI,Dine-in,179.0
+FF10981,2025-04-01,Nisha,Tripuri,Cold Coffee,Beverages,1.0,119.0,UPI,Dine-in,119.0
+FF10982,2025-02-13,Isha,Urban Estate,Coke,Beverages,1.0,59.0,Cash,Takeaway,59.0
+FF10983,2025-04-01,Harsh,Urban Estate,French Fries,Sides,2.0,99.0,UPI,Takeaway,198.0
+FF10984,2025-05-16,Aditya,Leela Bhawan,Lemonade,Beverages,1.0,89.0,,Delivery,89.0
+FF10985,2025-05-18,Sneha,Urban Estate,French Fries,Sides,3.0,99.0,UPI,Takeaway,297.0
+FF10986,2025-02-26,Aman,Urban Estate,French Fries,Sides,3.0,99.0,Card,Delivery,297.0
+FF10987,2025-04-04,,Tripuri,Margherita Pizza,Pizza,4.0,299.0,UPI,Takeaway,1196.0
+FF10988,2025-04-28,Pooja,Leela Bhawan,Cold Coffee,Beverages,2.0,119.0,UPI,Delivery,238.0
+FF10989,2025-05-16,Kavya,Tripuri,Chicken Wings,Sides,4.0,179.0,Card,Delivery,716.0
+FF10990,2025-03-23,Tanvi,Urban Estate,Chicken Wings,Sides,2.0,179.0,UPI,Takeaway,358.0
+FF10991,2025-04-10,Sneha,Leela bhawan,Cold Coffee,Beverages,1.0,119.0,UPI,Takeaway,119.0
+FF10992,2025-02-10,Ananya,Urban Estate,Cheese Burger,Burgers,2.0,199.0,Card,Dine-in,398.0
+FF10993,2025-01-17,Aman,Urban Estate,Lemonade,Beverages,3.0,89.0,Cash,Delivery,267.0
+FF10994,2025-03-27,Aman,Urban Estate,Cold Coffee,Beverages,3.0,119.0,UPI,Delivery,357.0
+FF10995,2025-02-09,Manish,Leela Bhawan,Chicken Wings,Sides,4.0,179.0,Cash,Dine-in,716.0
+FF10996,2025-03-31,Karan,Leela Bhawan,Cold Coffee,Beverages,3.0,119.0,UPI,Dine-in,357.0
+FF10997,2025-02-07,Pooja,Leela Bhawan,Farmhouse Pizza,Pizza,3.0,349.0,UPI,Dine-in,1047.0
+FF10998,2025-06-14,Tanvi,Leela Bhawan,Chicken Wings,Sides,2.0,179.0,UPI,Delivery,358.0
+FF10999,2025-03-17,Riya,Model Town,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Takeaway,349.0
+FF11000,2025-03-30,Isha,Tripuri,Classic Burger,Burgers,2.0,149.0,UPI,Dine-in,298.0
+FF11001,2025-02-02,Neha,Tripuri,Veg Burger,Burgers,4.0,129.0,Cash,Delivery,516.0
+FF11002,2025-02-14,Simran,Urban Estate,Cold Coffee,Beverages,4.0,119.0,UPI,Delivery,476.0
+FF11003,2025-06-03,Gurpreet,Model Town,Classic Burger,Burgers,4.0,149.0,Card,Delivery,596.0
+FF11004,2025-05-24,Aditya,Leela Bhawan,Lemonade,Beverages,1.0,89.0,UPI,Delivery,89.0
+FF11005,2025-05-30,Harsh,Model Town,Coke,Beverages,3.0,59.0,UPI,Dine-in,177.0
+FF11006,2025-02-16,Yash,TRIPURI,French Fries,Sides,1.0,99.0,Cash,Delivery,99.0
+FF11007,2025-01-16,Sneha,Tripuri,Cold Coffee,Beverages,3.0,119.0,UPI,Takeaway,357.0
+FF11008,2025-04-11,Harsh,Leela Bhawan,Chicken Wings,Sides,4.0,179.0,Cash,Dine-in,716.0
+FF11009,2025-06-06,Gurpreet,Model Town,Garlic Bread,Sides,1.0,129.0,UPI,Takeaway,129.0
+FF11010,2025-04-02,Mehak,Model Town,Chicken Wings,Sides,4.0,179.0,Cash,Delivery,716.0
+FF11011,2025-04-26,Kavya,Leela Bhawan,Veg Burger,Burgers,3.0,129.0,UPI,Dine-in,387.0
+FF11012,2025-05-16,Rahul,Tripuri,Cold Coffee,Beverages,,119.0,UPI,Delivery,
+FF11013,2025-06-10,Rohan,Model Town,Cheese Burger,Burgers,3.0,199.0,Cash,Dine-in,597.0
+FF11014,2025-03-20,Rahul,Urban Estate,Lemonade,Beverages,2.0,89.0,Card,Delivery,178.0
+FF11015,2025-02-04,Sahil,Leela Bhawan,Chicken Wings,Sides,2.0,179.0,UPI,Dine-in,358.0
+FF11016,04/15/2025,Manish,Urban Estate,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Dine-in,349.0
+FF11017,2025-04-02,Vikas,Urban Estate,Coke,Beverages,1.0,59.0,Card,Delivery,59.0
+FF11018,2025-02-28,Aditya,Model Town,Cheese Burger,Burgers,1.0,199.0,UPI,Takeaway,199.0
+FF11019,2025-01-23,,Leela Bhawan,Coke,Beverages,2.0,59.0,UPI,Dine-in,118.0
+FF11020,2025-05-29,Harsh,Urban Estate,Veg Burger,Burgers,1.0,129.0,Cash,Dine-in,129.0
+FF11021,2025-04-22,Simran,Model Town,Cold Coffee,Beverages,3.0,119.0,Card,Takeaway,357.0
+FF11022,2025-06-18,Manish,Urban Estate,Cheese Burger,Burgers,4.0,199.0,UPI,Delivery,796.0
+FF11023,2025-01-23,Kavya,Model Town,Cold Coffee,Beverages,1.0,119.0,Card,Takeaway,119.0
+FF11024,2025-03-03,Karan,Tripuri,Coke,Beverages,1.0,59.0,Card,Delivery,59.0
+FF11025,2025-04-27,Isha,Model Town,Veg Burger,Burgers,3.0,129.0,Card,Delivery,387.0
+FF11026,2025-05-25,Neha,Tripuri,Lemonade,Beverages,3.0,89.0,UPI,Dine-in,267.0
+FF11027,2025-05-15,Simran,Leela Bhawan,Margherita Pizza,Pizza,1.0,299.0,UPI,Delivery,299.0
+FF11028,2025-06-06,Vikas,Leela bhawan,Farmhouse Pizza,Pizza,2.0,349.0,Card,Dine-in,698.0
+FF11029,2025-05-30,Riya,Model Town,Chicken Wings,Sides,2.0,179.0,Cash,Delivery,358.0
+FF11030,2025-02-25,Isha,Leela Bhawan,Coke,Beverages,2.0,59.0,UPI,Takeaway,118.0
+FF11031,2025-03-12,Manish,Tripuri,Margherita Pizza,Pizza,2.0,299.0,UPI,Takeaway,598.0
+FF11032,2025-06-08,Kavya,Model Town,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Delivery,349.0
+FF11033,2025-06-15,Simran,Urban Estate,Margherita Pizza,Pizza,2.0,299.0,Cash,Takeaway,598.0
+FF11034,2025-06-24,Mehak,Leela Bhawan,Veg Burger,Burgers,2.0,129.0,UPI,Dine-in,258.0
+FF11035,2025-06-07,Vikas,Leela Bhawan,Coke,Beverages,1.0,59.0,Cash,Dine-in,59.0
+FF11036,2025-05-10,Rahul,Model Town,Lemonade,Beverages,3.0,89.0,UPI,Dine-in,267.0
+FF11037,2025-05-31,Simran,Tripuri,Classic Burger,Burgers,3.0,149.0,Card,Takeaway,447.0
+FF11038,2025-03-13,Manish,Urban Estate,Farmhouse Pizza,Pizza,2.0,349.0,UPI,Takeaway,698.0
+FF11039,2025-02-18,Simran,Model Town,Garlic Bread,Sides,1.0,129.0,Card,Delivery,129.0
+FF11040,2025-05-28,Rohan,Urban Estate,French Fries,Sides,4.0,99.0,Cash,Delivery,396.0
+FF11041,2025-05-02,Ananya,Tripuri,Coke,Beverages,1.0,59.0,upi,Takeaway,59.0
+FF11042,2025-05-26,Neha,Urban Estate,Cheese Burger,Burgers,3.0,199.0,UPI,Delivery,597.0
+FF11043,2025-01-08,Ananya,Urban Estate,Lemonade,Beverages,4.0,89.0,UPI,Delivery,356.0
+FF11044,2025-03-02,Harsh,Model Town,Cold Coffee,Beverages,1.0,119.0,Cash,Delivery,119.0
+FF11045,2025-05-31,Simran,Tripuri,Lemonade,Beverages,2.0,89.0,UPI,Delivery,178.0
+FF11046,2025-04-05,Karan,Model Town,Lemonade,Beverages,2.0,89.0,Cash,Takeaway,178.0
+FF11047,2025-01-09,Sahil,Leela Bhawan,Lemonade,Beverages,3.0,89.0,Card,Delivery,267.0
+FF11048,2025-01-27,Ananya,Urban Estate,Veg Burger,Burgers,1.0,129.0,Cash,Dine-in,129.0
+FF11049,2025-03-18,Aditya,Urban Estate,Veg Burger,Burgers,4.0,129.0,UPI,Takeaway,516.0
+FF11050,2025-02-06,Sneha,Leela Bhawan,Classic Burger,Burgers,3.0,149.0,UPI,Delivery,447.0
+FF11051,2025-01-10,Manish,Urban Estate,Coke,Beverages,2.0,59.0,UPI,Takeaway,118.0
+FF11052,2025-03-06,Kavya,Urban Estate,Garlic Bread,Sides,3.0,129.0,UPI,Takeaway,387.0
+FF11053,2025-03-10,Sneha,Urban Estate,Lemonade,Beverages,1.0,89.0,Card,Dine-in,89.0
+FF11054,2025-02-22,Mehak,Model Town,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Delivery,1396.0
+FF11055,2025-06-17,Ananya,Urban Estate,Coke,Beverages,4.0,59.0,Cash,Delivery,236.0
+FF11056,2025-05-04,Yash,Model Town,Classic Burger,Burgers,4.0,149.0,UPI,Dine-in,596.0
+FF11057,2025-05-26,Ananya,Leela Bhawan,French Fries,Sides,2.0,99.0,Card,Takeaway,198.0
+FF11058,2025-05-29,Ananya,Urban Estate,Margherita Pizza,Pizza,3.0,299.0,Cash,Delivery,897.0
+FF11059,2025-04-11,Riya,Urban Estate,Veg Burger,Burgers,4.0,129.0,UPI,Delivery,516.0
+FF11060,2025-06-05,Pooja,Leela Bhawan,Veg Burger,Burgers,4.0,129.0,UPI,Delivery,516.0
+FF11061,2025-01-27,Mehak,Leela Bhawan,Cold Coffee,Beverages,3.0,119.0,UPI,Dine-in,357.0
+FF11062,2025-02-27,Sneha,Urban Estate,Classic Burger,Burgers,4.0,149.0,Card,Dine-in,596.0
+FF11063,2025-03-04,Jaspreet,Tripuri,Margherita Pizza,Pizza,4.0,299.0,UPI,Delivery,1196.0
+FF11064,2025-05-02,Mehak,Model Town,Margherita Pizza,Pizza,1.0,299.0,Cash,Takeaway,299.0
+FF11065,2025-05-25,Yash,Urban Estate,Veg Burger,Burgers,2.0,129.0,Card,Dine-in,258.0
+FF11066,2025-01-06,Manish,Leela Bhawan,Lemonade,Beverages,3.0,89.0,Card,Delivery,267.0
+FF11067,2025-04-14,Harsh,Leela Bhawan,Margherita Pizza,Pizza,1.0,299.0,UPI,Dine-in,299.0
+FF11068,2025-02-15,Sahil,Tripuri,Cold Coffee,Beverages,1.0,119.0,Cash,Dine-in,119.0
+FF11069,2025-02-19,Tanvi,Leela Bhawan,Farmhouse Pizza,Pizza,2.0,349.0,Cash,Takeaway,698.0
+FF11070,2025-01-08,Harsh,Model Town,Chicken Wings,Sides,2.0,179.0,Card,Delivery,358.0
+FF11071,2025-01-06,Simran,Leela Bhawan,French Fries,Sides,4.0,99.0,Card,Delivery,396.0
+FF11072,2025-02-23,Karan,Urban Estate,Lemonade,Beverages,3.0,89.0,Cash,Dine-in,267.0
+FF11073,2025-04-11,Karan,Urban Estate,French Fries,Sides,3.0,99.0,Card,Dine-in,297.0
+FF11074,2025-04-02,Arjun,Model Town,Margherita Pizza,Pizza,1.0,299.0,Card,Dine-in,299.0
+FF11075,2025-01-28,Yash,Tripuri,French Fries,Sides,3.0,99.0,UPI,Dine-in,297.0
+FF11076,2025-02-17,Rohan,Leela Bhawan,Lemonade,Beverages,3.0,89.0,UPI,Takeaway,267.0
+FF11077,2025-03-19,Rahul,Leela Bhawan,Farmhouse Pizza,Pizza,1.0,349.0,Card,Delivery,349.0
+FF11078,2025-04-15,Sneha,Model Town,Margherita Pizza,Pizza,1.0,299.0,Card,Dine-in,299.0
+FF11079,2025-05-27,Arjun,Leela Bhawan,Veg Burger,Burgers,1.0,129.0,Card,Delivery,129.0
+FF11080,2025-01-06,Harsh,Urban Estate,Garlic Bread,Sides,1.0,129.0,Card,Takeaway,129.0
+FF11081,2025-05-26,Tanvi,Leela Bhawan,Garlic Bread,Sides,1.0,129.0,Card,Delivery,129.0
+FF11082,2025-04-19,Neha,Leela Bhawan,Cold Coffee,Beverages,1.0,119.0,Cash,Dine-in,119.0
+FF11083,2025-06-14,Simran,Tripuri,Cold Coffee,Beverages,4.0,119.0,UPI,Dine-in,476.0
+FF11084,2025-03-08,Sahil,Model Town,Coke,Beverages,3.0,59.0,UPI,Takeaway,177.0
+FF11085,29/05/2025,Nisha,Model Town,Margherita Pizza,Pizza,2.0,299.0,UPI,Takeaway,598.0
+FF11086,2025-06-16,Mehak,Leela Bhawan,Lemonade,Beverages,1.0,89.0,UPI,Delivery,89.0
+FF11087,2025-03-03,Pooja,Model Town,Garlic Bread,Sides,4.0,129.0,Cash,Delivery,516.0
+FF11088,2025-03-01,Nisha,Model Town,Chicken Wings,Sides,2.0,179.0,UPI,Takeaway,358.0
+FF11089,2025-04-23,Gurpreet,Urban Estate,French Fries,Sides,1.0,99.0,UPI,Delivery,99.0
+FF11090,2025-04-06,Karan,Urban Estate,Garlic Bread,Sides,3.0,129.0,Cash ,Takeaway,387.0
+FF11091,2025-01-19,Tanvi,Urban Estate,Chicken Wings,Sides,1.0,179.0,UPI,Delivery,179.0
+FF11092,2025-01-15,Arjun,Tripuri,Veg Burger,Burgers,1.0,129.0,Card,Dine-in,129.0
+FF11093,2025-05-21,Pooja,Leela Bhawan,Margherita Pizza,Pizza,3.0,299.0,Cash,Delivery,897.0
+FF11094,2025-06-06,Jaspreet,Urban Estate,Cheese Burger,Burgers,3.0,199.0,Card,Dine-in,597.0
+FF11095,2025-01-01,Arjun,Model Town,Chicken Wings,Sides,4.0,179.0,Cash,Dine-in,716.0
+FF11096,2025-04-12,Harsh,Urban Estate,French Fries,Sides,1.0,99.0,UPI,Dine-in,99.0
+FF11097,2025-06-15,Karan,Tripuri,Lemonade,Beverages,3.0,89.0,Card,Takeaway,267.0
+FF11098,2025-05-17,Jaspreet,Model Town,French Fries,Sides,1.0,99.0,UPI,Delivery,99.0
+FF11099,2025-05-05,Mehak,Tripuri,Coke,Beverages,4.0,59.0,Card,Delivery,236.0
+FF11100,2025-06-14,Rahul,Urban Estate,Veg Burger,Burgers,2.0,129.0,Card,Dine-in,258.0
+FF11101,2025-03-30,Manish,Urban Estate,Chicken Wings,Sides,3.0,179.0,UPI,Takeaway,537.0
+FF11102,2025-02-19,Sneha,Leela Bhawan,Lemonade,Beverages,3.0,89.0,UPI,Takeaway,267.0
+FF11103,2025-04-24,Aman,Leela Bhawan,Cheese Burger,Burgers,4.0,199.0,UPI,Dine-in,796.0
+FF11104,2025-01-28,Ananya,Tripuri,Chicken Wings,Sides,3.0,179.0,UPI,Delivery,537.0
+FF11105,2025-05-14,Rahul,Urban Estate,Chicken Wings,Sides,3.0,179.0,UPI,Takeaway,537.0
+FF11106,2025-06-14,Vikas,Tripuri,Coke,Beverages,1.0,59.0,Card,Dine-in,59.0
+FF11107,2025-02-09,Jaspreet,Model Town,Coke,Beverages,4.0,59.0,UPI,Takeaway,236.0
+FF11108,2025-01-16,Rohan,Leela Bhawan,Farmhouse Pizza,Pizza,2.0,349.0,UPI,Takeaway,698.0
+FF11109,2025-03-10,Sneha,Model Town,Margherita Pizza,Pizza,2.0,299.0,Cash,Delivery,598.0
+FF11110,2025-06-04,Karan,Leela Bhawan,Veg Burger,Burgers,2.0,129.0,UPI,Delivery,258.0
+FF11111,2025-02-06,Aditya,Leela Bhawan,Cold Coffee,Beverages,4.0,119.0,UPI,Dine-in,476.0
+FF11112,2025-04-07,Sneha,Leela Bhawan,Lemonade,Beverages,3.0,89.0,Card,Takeaway,267.0
+FF11113,2025-05-27,Ananya,Model Town,Cheese Burger,Burgers,1.0,199.0,UPI,Takeaway,199.0
+FF11114,2025-03-07,Riya,Urban Estate,Garlic Bread,Sides,1.0,129.0,Card,Delivery,129.0
+FF11115,2025-03-11,Rohan,Leela Bhawan,Cheese Burger,Burgers,1.0,199.0,UPI,Dine-in,199.0
+FF11116,2025-05-10,Rahul,Urban Estate,Cold Coffee,Beverages,3.0,119.0,UPI,Delivery,357.0
+FF11117,2025-01-28,Sahil,Tripuri,Classic Burger,Burgers,4.0,149.0,UPI,Delivery,596.0
+FF11118,2025-05-17,Manish,Leela Bhawan,Classic Burger,Burgers,2.0,149.0,Card,Dine-in,298.0
+FF11119,2025-06-21,Rahul,Leela Bhawan,Lemonade,Beverages,4.0,89.0,UPI,Dine-in,356.0
+FF11120,2025-06-28,Mehak,Leela Bhawan,Veg Burger,Burgers,2.0,129.0,Cash,Delivery,258.0
+FF11121,2025-01-28,Neha,Leela Bhawan,Margherita Pizza,Pizza,1.0,299.0,UPI,Delivery,299.0
+FF11122,2025-03-26,Vikas,Leela Bhawan,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Delivery,349.0
+FF11123,2025-04-01,Simran,Tripuri,Garlic Bread,Sides,3.0,129.0,Card,Dine-in,387.0
+FF11124,2025-02-11,Rahul,Urban Estate,Margherita Pizza,Pizza,4.0,299.0,UPI,Delivery,1196.0
+FF11125,2025-03-08,Jaspreet,Urban Estate,Veg Burger,Burgers,2.0,129.0,Card,Delivery,258.0
+FF11126,2025-01-24,Isha,Urban Estate,Margherita Pizza,Pizza,1.0,299.0,UPI,Takeaway,299.0
+FF11127,2025-02-11,Rahul,Urban Estate,Coke,Beverages,4.0,59.0,UPI,Dine-in,236.0
+FF11128,2025-06-20,Riya,Urban Estate,French Fries,Sides,2.0,99.0,Cash,Dine-in,198.0
+FF11129,2025-01-11,Neha,Leela Bhawan,Garlic Bread,Sides,1.0,129.0,UPI,Delivery,129.0
+FF11130,2025-04-02,Gurpreet,Tripuri,Garlic Bread,Sides,2.0,129.0,UPI,Delivery,258.0
+FF11131,2025-03-30,Rohan,Tripuri,Margherita Pizza,Pizza,2.0,299.0,Cash,Dine-in,598.0
+FF11132,2025-04-13,Tanvi,Model Town,Farmhouse Pizza,Pizza,3.0,349.0,Cash,Takeaway,1047.0
+FF11133,2025-04-12,Rohan,Leela Bhawan,Garlic Bread,Sides,1.0,129.0,UPI,Delivery,129.0
+FF11134,2025-02-28,Aman,Urban Estate,Garlic Bread,Sides,4.0,129.0,UPI,Takeaway,516.0
+FF11135,2025-06-01,Neha,Tripuri,Farmhouse Pizza,Pizza,4.0,349.0,Cash,Takeaway,1396.0
+FF11136,2025-02-19,Aditya,Urban Estate,Veg Burger,Burgers,2.0,129.0,Card,Dine-in,258.0
+FF11137,2025-06-17,Riya,Leela Bhawan,French Fries,Sides,4.0,99.0,UPI,Dine-in,396.0
+FF11138,2025-01-03,Sneha,Model Town,Cheese Burger,Burgers,2.0,199.0,Card,Dine-in,398.0
+FF11139,2025-04-06,Harsh,Leela Bhawan,Chicken Wings,Sides,2.0,179.0,UPI ,Takeaway,358.0
+FF11140,2025-05-01,Aditya,Model Town,French Fries,Sides,4.0,99.0,Cash,Takeaway,396.0
+FF11141,2025-01-11,Tanvi,Leela Bhawan,French Fries,Sides,4.0,99.0,Card,Dine-in,396.0
+FF11142,2025-01-09,,Urban Estate,Cheese Burger,Burgers,4.0,199.0,UPI,Dine-in,796.0
+FF11143,2025-05-26,Harsh,Model Town,Lemonade,Beverages,1.0,89.0,Card,Delivery,89.0
+FF11144,2025-01-24,Sneha,Model Town,Margherita Pizza,Pizza,2.0,299.0,Cash,Dine-in,598.0
+FF11145,2025-02-05,Riya,Tripuri,Chicken Wings,Sides,2.0,179.0,Card,Delivery,358.0
+FF11146,2025-01-22,Gurpreet,Model Town,Lemonade,Beverages,3.0,89.0,UPI,Dine-in,267.0
+FF11147,2025-03-28,Arjun,Model Town,Coke,Beverages,4.0,59.0,Cash,Dine-in,236.0
+FF11148,2025-04-26,Kavya,Leela Bhawan,Margherita Pizza,Pizza,4.0,299.0,Card,Dine-in,1196.0
+FF11149,2025-03-15,Mehak,Urban Estate,Chicken Wings,Sides,1.0,0.0,Cash,Takeaway,0.0
+FF11150,2025-03-30,Manish,Model Town,Lemonade,Beverages,3.0,89.0,Card,Dine-in,267.0
+FF11151,2025-04-26,Gurpreet,Leela Bhawan,Cheese Burger,Burgers,4.0,199.0,Cash,Delivery,796.0
+FF11152,2025-02-17,Manish,Urban Estate,Lemonade,Beverages,2.0,89.0,UPI,Delivery,178.0
+FF11153,07/01/2025,Vikas,Leela Bhawan,Coke,Beverages,3.0,59.0,UPI,Takeaway,177.0
+FF11154,2025-01-17,Manish,Leela Bhawan,Margherita Pizza,Pizza,3.0,299.0,Cash,Delivery,897.0
+FF11155,2025-03-20,Sahil,Urban Estate,Coke,Beverages,4.0,59.0,Card,Takeaway,236.0
+FF11156,2025-03-31,Kavya,Tripuri,Cheese Burger,Burgers,4.0,199.0,UPI,Takeaway,796.0
+FF11157,2025-05-20,Jaspreet,Urban Estate,Veg Burger,Burgers,1.0,129.0,Cash,Delivery,129.0
+FF11158,2025-04-08,Sahil,Leela Bhawan,Chicken Wings,Sides,2.0,179.0,Cash,Takeaway,358.0
+FF11159,2025-03-20,Neha,Model Town,Farmhouse Pizza,Pizza,2.0,349.0,UPI,Takeaway,698.0
+FF11160,2025-02-28,Harsh,Leela Bhawan,Lemonade,Beverages,2.0,89.0,UPI,Delivery,178.0
+FF11161,2025-01-13,Nisha,Urban Estate,French Fries,Sides,4.0,99.0,UPI,Delivery,396.0
+FF11162,2025-03-08,Karan,Urban Estate,Veg Burger,Burgers,2.0,129.0,Card,Delivery,258.0
+FF11163,2025-04-06,Riya,Tripuri,Cold Coffee,Beverages,4.0,119.0,Card,Delivery,476.0
+FF11164,2025-02-17,Harsh,Urban Estate,Coke,Beverages,4.0,59.0,UPI,Dine-in,236.0
+FF11165,2025-06-14,Manish,Leela Bhawan,Veg Burger,Burgers,4.0,129.0,Cash,Dine-in,516.0
+FF11166,2025-04-01,Rahul,Model Town,Lemonade,Beverages,2.0,89.0,Cash,Dine-in,178.0
+FF11167,2025-06-08,Rahul,Model Town,Lemonade,Beverages,1.0,89.0,Cash,Dine-in,89.0
+FF11168,2025-05-09,Jaspreet,Tripuri,Classic Burger,Burgers,3.0,149.0,Card,Delivery,447.0
+FF11169,2025-01-25,Kavya,Model Town,Garlic Bread,Sides,3.0,129.0,Cash,Dine-in,387.0
+FF11170,2025-04-19,Mehak,Tripuri,Classic Burger,Burgers,3.0,149.0,UPI,Delivery,447.0
+FF11171,2025-05-18,Mehak,Urban Estate,Cheese Burger,Burgers,4.0,199.0,UPI,Dine-in,796.0
+FF11172,2025-01-29,Ananya,Urban Estate,Cold Coffee,Beverages,2.0,119.0,UPI,Takeaway,238.0
+FF11173,2025-01-31,Arjun,Urban Estate,Garlic Bread,Sides,4.0,129.0,Card,Delivery,516.0
+FF11174,2025-03-11,Sahil,Leela Bhawan,Chicken Wings,Sides,1.0,179.0,Cash,Dine-in,179.0
+FF11175,2025-05-31,Riya,Leela Bhawan,Farmhouse Pizza,Pizza,1.0,349.0,Cash,Takeaway,349.0
+FF11176,2025-04-10,Gurpreet,Model Town,Garlic Bread,Sides,2.0,129.0,Cash,Takeaway,258.0
+FF11177,2025-02-18,Tanvi,Urban Estate,Cold Coffee,Beverages,1.0,119.0,UPI,Delivery,119.0
+FF11178,2025-02-06,Arjun,Leela Bhawan,Veg Burger,Burgers,3.0,129.0,UPI,Takeaway,387.0
+FF11179,2025-06-21,Yash,Urban Estate,Cheese Burger,Burgers,2.0,199.0,UPI,Takeaway,398.0
+FF11180,2025-03-22,Pooja,Leela Bhawan,Margherita Pizza,Pizza,3.0,299.0,Cash,Delivery,897.0
+FF11181,2025-04-27,Vikas,Urban Estate,Lemonade,Beverages,4.0,89.0,Cash,Delivery,356.0
+FF11182,2025-03-29,Aman,Model Town,Margherita Pizza,Pizza,2.0,299.0,Cash,Takeaway,598.0
+FF11183,2025-04-07,Sahil,Tripuri,Cold Coffee,Beverages,2.0,119.0,Card,Takeaway,238.0
+FF11184,2025-01-08,Rahul,Urban Estate,Margherita Pizza,Pizza,4.0,299.0,UPI,Delivery,1196.0
+FF11185,2025-05-23,Mehak,Tripuri,Chicken Wings,Sides,4.0,179.0,Card,Delivery,716.0
+FF11186,2025-04-18,Pooja,Tripuri,Veg Burger,Burgers,4.0,129.0,CARD,Takeaway,516.0
+FF11187,2025-04-17,Harsh,Leela Bhawan,Garlic Bread,Sides,4.0,129.0,Card,Delivery,516.0
+FF11188,2025-06-25,Pooja,Leela Bhawan,French Fries,Sides,1.0,99.0,Card,Delivery,99.0
+FF11189,2025-06-15,Sneha,Leela Bhawan,Chicken Wings,Sides,4.0,179.0,UPI,Dine-in,716.0
+FF11190,2025-06-12,,Tripuri,Farmhouse Pizza,Pizza,4.0,349.0,Card,Takeaway,1396.0
+FF11191,2025-05-22,Manish,Tripuri,Coke,Beverages,4.0,59.0,UPI,Dine-in,236.0
+FF11192,2025-06-17,Isha,Tripuri,Classic Burger,Burgers,4.0,149.0,UPI,Takeaway,596.0
+FF11193,2025-01-27,Aman,Leela Bhawan,Farmhouse Pizza,Pizza,1.0,349.0,UPI,Takeaway,349.0
+FF11194,2025-01-07,Gurpreet,Tripuri,Garlic Bread,Sides,4.0,129.0,Cash,Dine-in,516.0
+FF11195,2025-04-28,Tanvi,Urban Estate,Farmhouse Pizza,Pizza,4.0,349.0,Cash,Takeaway,1396.0
+FF11196,2025-01-30,Mehak,Tripuri,Classic Burger,Burgers,2.0,149.0,Card,Delivery,298.0
+FF11197,2025-01-26,Kavya,Leela Bhawan,Cheese Burger,Burgers,1.0,199.0,UPI,Dine-in,199.0
+FF11198,2025-02-21,Kavya,Leela Bhawan,Garlic Bread,Sides,2.0,129.0,UPI,Delivery,258.0
+FF11199,2025-04-17,Sahil,Tripuri,Veg Burger,Burgers,1.0,129.0,UPI,Dine-in,129.0
+FF11200,2025-04-02,Arjun,Urban Estate,Veg Burger,Burgers,3.0,129.0,Card,Takeaway,387.0
+FF10236,2025-05-08,Nisha,Model Town,Farmhouse Pizza,Pizza,4.0,349.0,UPI,Dine-in,1396.0
+FF10061,2025-01-09,Kavya,Model Town,Coke,Beverages,2.0,59.0,UPI,Dine-in,118.0
+FF11131,2025-03-30,Rohan,Tripuri,Margherita Pizza,Pizza,2.0,299.0,Cash,Dine-in,598.0
+FF10391,2025-04-30,Gurpreet,Urban Estate,Classic Burger,Burgers,1.0,149.0,UPI,Dine-in,149.0
+FF10319,2025-06-26,Sneha,Tripuri,Veg Burger,Burgers,4.0,,UPI,Takeaway,
+FF10889,2025-06-26,Vikas,Model Town,French Fries,Sides,1.0,99.0,UPI,Dine-in,99.0
+FF10105,2025-03-29,Nisha,Leela Bhawan,French Fries,Sides,3.0,99.0,UPI,Delivery,297.0
+FF10603,2025-05-14,Nisha,Model Town,Cold Coffee,Beverages,4.0,119.0,Card,Dine-in,476.0
+FF11189,2025-06-15,Sneha,Leela Bhawan,Chicken Wings,Sides,4.0,179.0,UPI,Dine-in,716.0
+FF10563,2025-06-29,Karan,Model Town,Classic Burger,Burgers,1.0,149.0,UPI,Delivery,149.0
+FF10366,2025-06-06,Pooja,Model Town,Cheese Burger,Burgers,3.0,199.0,UPI,Takeaway,597.0
+FF10996,2025-03-31,Karan,Leela Bhawan,Cold Coffee,Beverages,3.0,119.0,UPI,Dine-in,357.0
+FF10043,2025-01-02,Pooja,Tripuri,Lemonade,Beverages,2.0,89.0,Cash,Delivery,178.0
+FF10725,2025-03-01,Simran,Tripuri,Cheese Burger,Burgers,3.0,199.0,UPI,Takeaway,597.0
+FF10456,2025-06-04,Mehak,Tripuri,Farmhouse Pizza,Pizza,2.0,349.0,Card,Dine-in,698.0
+FF10537,2025-06-23,Nisha,Tripuri,Garlic Bread,Sides,3.0,129.0,Card,Dine-in,387.0
+FF11176,2025-04-10,Gurpreet,Model Town,Garlic Bread,Sides,2.0,129.0,Cash,Takeaway,258.0
+FF11058,2025-05-29,Ananya,Urban Estate,Margherita Pizza,Pizza,3.0,299.0,Cash,Delivery,897.0
+FF10032,2025-04-04,Rohan,Urban Estate,Cheese Burger,Burgers,3.0,199.0,UPI,Takeaway,597.0
+FF10455,2025-02-28,Neha,Model Town,Margherita Pizza,Pizza,2.0,299.0,UPI,Dine-in,598.0
